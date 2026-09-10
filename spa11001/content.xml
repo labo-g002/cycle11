@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>meca</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260910090334AJ6RV6</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260910090334VDIG92</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SPA11-001 Moteur 6cc</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>fr</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>meca</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1789023684609</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mtv6hvau-yj9on7lpn</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SPA11-001 Moteur 6cc</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SPA11-001 Moteur 6cc</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mtv6hvau-yj9on7lpn</odePageId>
+      <odeBlockId>block-mtv6hvau-cb4v3610d</odeBlockId>
+      <blockName>Mise en situation</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mtv6hvau-yj9on7lpn</odePageId>
+          <odeBlockId>block-mtv6hvau-cb4v3610d</odeBlockId>
+          <odeIdeviceId>idevice-mtv6hvav-m9jmo74bw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Le moteur de modélisme 6CC (voir le dessin d’ensemble DT01 et la nomenclature DT02, ci dessous) est utilisé pour actionner une hélice d’avion modèle réduit.</p>
+<p>Il est monocylindre 2 temps de type lumières, refroidi par l'air et fonctionne avec un mélange de méthanol nytrométhane et d’huile de synthèse.</p>
+<p><img src="{{context_path}}/content/resources/img0.2.png" width="619" height="268" alt="sdqs" /></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Le moteur de modélisme 6CC (voir le dessin d’ensemble DT01 et la nomenclature DT02, ci dessous) est utilisé pour actionner une hélice d’avion modèle réduit.</p>\n<p>Il est monocylindre 2 temps de type lumières, refroidi par l'air et fonctionne avec un mélange de méthanol nytrométhane et d’huile de synthèse.</p>\n<p><img src=\"{{context_path}}/content/resources/img0.2.png\" width=\"619\" height=\"268\" alt=\"sdqs\" /></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mtv6hvau-yj9on7lpn</odePageId>
+      <odeBlockId>block-mtv6hvav-fpd3bsj7a</odeBlockId>
+      <blockName>Problématique :</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mtv6hvau-yj9on7lpn</odePageId>
+          <odeBlockId>block-mtv6hvav-fpd3bsj7a</odeBlockId>
+          <odeIdeviceId>idevice-mtv6hvav-o88etm4kt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Le bon fonctionnement du moteur 6CC nécessite des guidages et ajustements précis entre les pièces en mouvement. Afin d’améliorer le rendement du moteur 6cc, on se propose d’analyser les ajustements entre le vilebrequin et la bielle par l’intermédiaire du coussinet de tête de bielle.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Le bon fonctionnement du moteur 6CC nécessite des guidages et ajustements précis entre les pièces en mouvement. Afin d’améliorer le rendement du moteur 6cc, on se propose d’analyser les ajustements entre le vilebrequin et la bielle par l’intermédiaire du coussinet de tête de bielle.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mtv6hvau-yj9on7lpn</odePageId>
+      <odeBlockId>block-mtv6hvav-ls9i9973q</odeBlockId>
+      <blockName>DT02 Nomenclature</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mtv6hvau-yj9on7lpn</odePageId>
+          <odeBlockId>block-mtv6hvav-ls9i9973q</odeBlockId>
+          <odeIdeviceId>idevice-mtv6hvav-002uh8ffx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<table border="1" style="width: 100%; height: 253px;">
+<tbody>
+<tr style="height: 23px;">
+<td style="width: 20.8972%; height: 23px;">No. ARTICLE</td>
+<td style="width: 9.14248%; height: 23px;">QTE.</td>
+<td style="width: 69.9602%; height: 23px;">Designation</td>
+</tr>
+<tr style="height: 23px;">
+<td style="width: 20.8972%; height: 23px;">1</td>
+<td style="width: 9.14248%; height: 23px;">1</td>
+<td style="width: 69.9602%; height: 23px;">Carter</td>
+</tr>
+<tr style="height: 23px;">
+<td style="width: 20.8972%; height: 23px;">2</td>
+<td style="width: 9.14248%; height: 23px;">2</td>
+<td style="width: 69.9602%; height: 23px;">Joint</td>
+</tr>
+<tr style="height: 23px;">
+<td style="width: 20.8972%; height: 23px;">3</td>
+<td style="width: 9.14248%; height: 23px;">1</td>
+<td style="width: 69.9602%; height: 23px;">Palier</td>
+</tr>
+<tr style="height: 23px;">
+<td style="width: 20.8972%; height: 23px;">4</td>
+<td style="width: 9.14248%; height: 23px;">1</td>
+<td style="width: 69.9602%; height: 23px;">Coussinet vilebrequin</td>
+</tr>
+<tr style="height: 23px;">
+<td style="width: 20.8972%; height: 23px;">5</td>
+<td style="width: 9.14248%; height: 23px;">1</td>
+<td style="width: 69.9602%; height: 23px;">Chapeau</td>
+</tr>
+<tr style="height: 23px;">
+<td style="width: 20.8972%; height: 23px;">6</td>
+<td style="width: 9.14248%; height: 23px;">1</td>
+<td style="width: 69.9602%; height: 23px;">Chemise</td>
+</tr>
+<tr style="height: 23px;">
+<td style="width: 20.8972%; height: 23px;">7</td>
+<td style="width: 9.14248%; height: 23px;">1</td>
+<td style="width: 69.9602%; height: 23px;">Culasse</td>
+</tr>
+<tr style="height: 23px;">
+<td style="width: 20.8972%; height: 23px;">8</td>
+<td style="width: 9.14248%; height: 23px;">6</td>
+<td style="width: 69.9602%; height: 23px;">Vis CS M2,5-8</td>
+</tr>
+<tr style="height: 23px;">
+<td style="width: 20.8972%; height: 23px;">9</td>
+<td style="width: 9.14248%; height: 23px;">8</td>
+<td style="width: 69.9602%; height: 23px;">Vis CS M3-8</td>
+</tr>
+<tr style="height: 23px;">
+<td style="width: 20.8972%; height: 23px;">10</td>
+<td style="width: 9.14248%; height: 23px;">1</td>
+<td style="width: 69.9602%; height: 23px;">Joint bougie</td>
+</tr>
+<tr>
+<td style="width: 20.8972%;">11</td>
+<td style="width: 9.14248%;">1</td>
+<td style="width: 69.9602%;">Bougie</td>
+</tr>
+<tr>
+<td style="width: 20.8972%;">12</td>
+<td style="width: 9.14248%;">1</td>
+<td style="width: 69.9602%;">Vilebrequin</td>
+</tr>
+<tr>
+<td style="width: 20.8972%;">13</td>
+<td style="width: 9.14248%;">1</td>
+<td style="width: 69.9602%;">Épaulement rapporté</td>
+</tr>
+<tr>
+<td style="width: 20.8972%;">14</td>
+<td style="width: 9.14248%;">1</td>
+<td style="width: 69.9602%;">Hélice</td>
+</tr>
+<tr>
+<td style="width: 20.8972%;">15</td>
+<td style="width: 9.14248%;">1</td>
+<td style="width: 69.9602%;">Écrou HE M8</td>
+</tr>
+<tr>
+<td style="width: 20.8972%;">16</td>
+<td style="width: 9.14248%;">1</td>
+<td style="width: 69.9602%;">Piston</td>
+</tr>
+<tr>
+<td style="width: 20.8972%;">17</td>
+<td style="width: 9.14248%;">1</td>
+<td style="width: 69.9602%;">Axe de piston</td>
+</tr>
+<tr>
+<td style="width: 20.8972%;">18</td>
+<td style="width: 9.14248%;">2</td>
+<td style="width: 69.9602%;">Embout d'axe de piston</td>
+</tr>
+<tr>
+<td style="width: 20.8972%;">19</td>
+<td style="width: 9.14248%;">1</td>
+<td style="width: 69.9602%;">Bielle</td>
+</tr>
+<tr>
+<td style="width: 20.8972%;">20</td>
+<td style="width: 9.14248%;">1</td>
+<td style="width: 69.9602%;">Coussinet bielle</td>
+</tr>
+</tbody>
+</table>
+<p></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<table border=\"1\" style=\"width: 100%; height: 253px;\">\n<tbody>\n<tr style=\"height: 23px;\">\n<td style=\"width: 20.8972%; height: 23px;\">No. ARTICLE</td>\n<td style=\"width: 9.14248%; height: 23px;\">QTE.</td>\n<td style=\"width: 69.9602%; height: 23px;\">Designation</td>\n</tr>\n<tr style=\"height: 23px;\">\n<td style=\"width: 20.8972%; height: 23px;\">1</td>\n<td style=\"width: 9.14248%; height: 23px;\">1</td>\n<td style=\"width: 69.9602%; height: 23px;\">Carter</td>\n</tr>\n<tr style=\"height: 23px;\">\n<td style=\"width: 20.8972%; height: 23px;\">2</td>\n<td style=\"width: 9.14248%; height: 23px;\">2</td>\n<td style=\"width: 69.9602%; height: 23px;\">Joint</td>\n</tr>\n<tr style=\"height: 23px;\">\n<td style=\"width: 20.8972%; height: 23px;\">3</td>\n<td style=\"width: 9.14248%; height: 23px;\">1</td>\n<td style=\"width: 69.9602%; height: 23px;\">Palier</td>\n</tr>\n<tr style=\"height: 23px;\">\n<td style=\"width: 20.8972%; height: 23px;\">4</td>\n<td style=\"width: 9.14248%; height: 23px;\">1</td>\n<td style=\"width: 69.9602%; height: 23px;\">Coussinet vilebrequin</td>\n</tr>\n<tr style=\"height: 23px;\">\n<td style=\"width: 20.8972%; height: 23px;\">5</td>\n<td style=\"width: 9.14248%; height: 23px;\">1</td>\n<td style=\"width: 69.9602%; height: 23px;\">Chapeau</td>\n</tr>\n<tr style=\"height: 23px;\">\n<td style=\"width: 20.8972%; height: 23px;\">6</td>\n<td style=\"width: 9.14248%; height: 23px;\">1</td>\n<td style=\"width: 69.9602%; height: 23px;\">Chemise</td>\n</tr>\n<tr style=\"height: 23px;\">\n<td style=\"width: 20.8972%; height: 23px;\">7</td>\n<td style=\"width: 9.14248%; height: 23px;\">1</td>\n<td style=\"width: 69.9602%; height: 23px;\">Culasse</td>\n</tr>\n<tr style=\"height: 23px;\">\n<td style=\"width: 20.8972%; height: 23px;\">8</td>\n<td style=\"width: 9.14248%; height: 23px;\">6</td>\n<td style=\"width: 69.9602%; height: 23px;\">Vis CS M2,5-8</td>\n</tr>\n<tr style=\"height: 23px;\">\n<td style=\"width: 20.8972%; height: 23px;\">9</td>\n<td style=\"width: 9.14248%; height: 23px;\">8</td>\n<td style=\"width: 69.9602%; height: 23px;\">Vis CS M3-8</td>\n</tr>\n<tr style=\"height: 23px;\">\n<td style=\"width: 20.8972%; height: 23px;\">10</td>\n<td style=\"width: 9.14248%; height: 23px;\">1</td>\n<td style=\"width: 69.9602%; height: 23px;\">Joint bougie</td>\n</tr>\n<tr>\n<td style=\"width: 20.8972%;\">11</td>\n<td style=\"width: 9.14248%;\">1</td>\n<td style=\"width: 69.9602%;\">Bougie</td>\n</tr>\n<tr>\n<td style=\"width: 20.8972%;\">12</td>\n<td style=\"width: 9.14248%;\">1</td>\n<td style=\"width: 69.9602%;\">Vilebrequin</td>\n</tr>\n<tr>\n<td style=\"width: 20.8972%;\">13</td>\n<td style=\"width: 9.14248%;\">1</td>\n<td style=\"width: 69.9602%;\">Épaulement rapporté</td>\n</tr>\n<tr>\n<td style=\"width: 20.8972%;\">14</td>\n<td style=\"width: 9.14248%;\">1</td>\n<td style=\"width: 69.9602%;\">Hélice</td>\n</tr>\n<tr>\n<td style=\"width: 20.8972%;\">15</td>\n<td style=\"width: 9.14248%;\">1</td>\n<td style=\"width: 69.9602%;\">Écrou HE M8</td>\n</tr>\n<tr>\n<td style=\"width: 20.8972%;\">16</td>\n<td style=\"width: 9.14248%;\">1</td>\n<td style=\"width: 69.9602%;\">Piston</td>\n</tr>\n<tr>\n<td style=\"width: 20.8972%;\">17</td>\n<td style=\"width: 9.14248%;\">1</td>\n<td style=\"width: 69.9602%;\">Axe de piston</td>\n</tr>\n<tr>\n<td style=\"width: 20.8972%;\">18</td>\n<td style=\"width: 9.14248%;\">2</td>\n<td style=\"width: 69.9602%;\">Embout d'axe de piston</td>\n</tr>\n<tr>\n<td style=\"width: 20.8972%;\">19</td>\n<td style=\"width: 9.14248%;\">1</td>\n<td style=\"width: 69.9602%;\">Bielle</td>\n</tr>\n<tr>\n<td style=\"width: 20.8972%;\">20</td>\n<td style=\"width: 9.14248%;\">1</td>\n<td style=\"width: 69.9602%;\">Coussinet bielle</td>\n</tr>\n</tbody>\n</table>\n<p></p>"}]]></jsonProperties>
+          <odeComponentsOrder>2</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mtv6hvau-kwwkl3gh9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Téléchargements</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Téléchargements</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mtv6hvau-kwwkl3gh9</odePageId>
+      <odeBlockId>block-mtv6hvav-nob0l53yj</odeBlockId>
+      <blockName>File Attachments</blockName>
+      <iconName>assignment</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mtv6hvau-kwwkl3gh9</odePageId>
+          <odeBlockId>block-mtv6hvav-nob0l53yj</odeBlockId>
+          <odeIdeviceId>idevice-mtv6hvav-wuowmf85l</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><a href="{{context_path}}/content/resources/cao11-001.zip" target="_blank" download="cao11-001.zip">cao11-001.zip</a></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><a href=\"{{context_path}}/content/resources/cao11-001.zip\" target=\"_blank\" download=\"cao11-001.zip\">cao11-001.zip</a></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mtv6hvau-57sse3s3h</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Activité 1</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Activité 1</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mtv6hvau-57sse3s3h</odePageId>
+      <odeBlockId>block-mtv6hvav-0vbjzgrqs</odeBlockId>
+      <blockName>Analyse fonctionnelle</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mtv6hvau-57sse3s3h</odePageId>
+          <odeBlockId>block-mtv6hvav-0vbjzgrqs</odeBlockId>
+          <odeIdeviceId>idevice-mtv6hvav-f7d9d6bq8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Un moteur thermique a pour fonction de transformer une énergie chimique en énergie mécanique.<br />Pour transformer cette énergie chimique (air + essence), en énergie mécanique, des pertes sous formes de chaleur et des résidus de combustion sont créés.</p>
+<p><img src="{{context_path}}/content/resources/Moteur_2T.gif" alt="cd" width="165" height="287" /><img src="{{context_path}}/content/resources/Moteur_2T-2.gif" alt="vsd" width="750" height="202" /></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Un moteur thermique a pour fonction de transformer une énergie chimique en énergie mécanique.<br />Pour transformer cette énergie chimique (air + essence), en énergie mécanique, des pertes sous formes de chaleur et des résidus de combustion sont créés.</p>\n<p><img src=\"{{context_path}}/content/resources/Moteur_2T.gif\" alt=\"cd\" width=\"165\" height=\"287\" /><img src=\"{{context_path}}/content/resources/Moteur_2T-2.gif\" alt=\"vsd\" width=\"750\" height=\"202\" /></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mtv6hvau-1z16xh0e0</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Activité 2</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Activité 2</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mtv6hvau-1z16xh0e0</odePageId>
+      <odeBlockId>block-mtv6hvav-1u7yfyjxz</odeBlockId>
+      <blockName>Alésage et arbre</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mtv6hvau-1z16xh0e0</odePageId>
+          <odeBlockId>block-mtv6hvav-1u7yfyjxz</odeBlockId>
+          <odeIdeviceId>idevice-mtv6hvav-g097oy6zf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Les pièces cylindriques de révolution peuvent être pleines de matière (arbre) ou creuses (ALÉSAGE) :</p>
+<ul>
+<li><strong><span style="color: #339966;">L’arbre</span> </strong>correspond à la pièce mâle (contenu) ;</li>
+<li><strong><span style="color: #339966;">L’ALÉSAGE</span></strong> correspond à la pièce femelle (CONTENANT) de l’assemblage cylindrique.</li>
+</ul>
+<p><img src="{{context_path}}/content/resources/img0.png" width="284" height="79" alt="ioiuy" /></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Les pièces cylindriques de révolution peuvent être pleines de matière (arbre) ou creuses (ALÉSAGE) :</p>\n<ul>\n<li><strong><span style=\"color: #339966;\">L’arbre</span> </strong>correspond à la pièce mâle (contenu) ;</li>\n<li><strong><span style=\"color: #339966;\">L’ALÉSAGE</span></strong> correspond à la pièce femelle (CONTENANT) de l’assemblage cylindrique.</li>\n</ul>\n<p><img src=\"{{context_path}}/content/resources/img0.png\" width=\"284\" height=\"79\" alt=\"ioiuy\" /></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mtv6hvau-9kx6pll2t</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Activité 3</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Activité 3</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mtv6hvau-9kx6pll2t</odePageId>
+      <odeBlockId>block-mtv6hvav-otg8wcqbe</odeBlockId>
+      <blockName>Système ISO de tolérances</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mtv6hvau-9kx6pll2t</odePageId>
+          <odeBlockId>block-mtv6hvav-otg8wcqbe</odeBlockId>
+          <odeIdeviceId>idevice-mtv6hvav-40m2wve2w</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Afin de simplifier l’écriture des tolérances dimensionnelles et ne pas surcharger les dessins, il existe un Système ISO de tolérances employant des MAJUSCULES et minuscules CHIFFRÉES</p>
+<p>Considérons un assemblage ajusté entre un ALÉSAGE et un ARBRE :</p>
+<p><img src="{{context_path}}/content/resources/img1.png" width="457" height="319" alt="ds" /></p>
+<p><img src="{{context_path}}/content/resources/img0.1.png" width="359" height="87" alt="d" /></p>
+<ul>
+<li>La MAJUSCULE caractérise la position de la tolérance de l’ALÉSAGE (CONTENANT) ;</li>
+<li>La minuscule caractérise la position de la tolérance de l’arbre (contenu) ;</li>
+<li>Les chiffres caractérisent la qualité de la tolérance. (de 01 faible à 16 forte).</li>
+</ul>
+<p></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Afin de simplifier l’écriture des tolérances dimensionnelles et ne pas surcharger les dessins, il existe un Système ISO de tolérances employant des MAJUSCULES et minuscules CHIFFRÉES</p>\n<p>Considérons un assemblage ajusté entre un ALÉSAGE et un ARBRE :</p>\n<p><img src=\"{{context_path}}/content/resources/img1.png\" width=\"457\" height=\"319\" alt=\"ds\" /></p>\n<p><img src=\"{{context_path}}/content/resources/img0.1.png\" width=\"359\" height=\"87\" alt=\"d\" /></p>\n<ul>\n<li>La MAJUSCULE caractérise la position de la tolérance de l’ALÉSAGE (CONTENANT) ;</li>\n<li>La minuscule caractérise la position de la tolérance de l’arbre (contenu) ;</li>\n<li>Les chiffres caractérisent la qualité de la tolérance. (de 01 faible à 16 forte).</li>\n</ul>\n<p></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mtv6hvau-te7dkwts4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Activité 4</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Activité 4</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mtv6hvau-te7dkwts4</odePageId>
+      <odeBlockId>block-mtv6hvav-5wc61ewcf</odeBlockId>
+      <blockName>Jeu et types d’assemblages</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mtv6hvau-te7dkwts4</odePageId>
+          <odeBlockId>block-mtv6hvav-5wc61ewcf</odeBlockId>
+          <odeIdeviceId>idevice-mtv6hvav-3aj2wfidf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Pour définir un contact entre deux pièces d’un assemblage, il nous faut savoir si celles-ci doivent être fixes, ajustée ou mobile l’une par rapport à l’autre. Ce contact est caractérisé par un Jeu dit « fonctionnel », espace ménagé entre deux pièces pour permettre le fonctionnement.</p>
+<p><img src="{{context_path}}/content/resources/img1.1.png" width="221" height="194" alt="qd" /></p>
+<p>Ce Jeu se calcule en effectuant l’opération suivante :</p>
+<p><img src="{{context_path}}/content/resources/img2.png" width="456" height="59" alt="dsq" /></p>
+<p>En fonction des positions des tolérances réalisées sur l’ALESAGE et sur l’arbre, le jeu peut être Maxi ou mini</p>
+<p> <img src="{{context_path}}/content/resources/img3.png" width="664" height="173" alt="qdqea" /></p>
+<p style="padding-left: 60px;"><br /><strong>Jeu<sub>Maxi</sub> </strong>(JM ou Sm Serrage mini) <strong>= Cote<sub>Maxi</sub> ALESAGE – Cote<sub>mini</sub> arbre</strong></p>
+<p style="padding-left: 60px;"><strong>Jeu<sub>mini</sub> </strong>(Jm ou SM Serrage Maxi) <strong>= Cote<sub>mini</sub> ALESAGE – Cote<sub>Maxi</sub> arbre</strong></p>
+<p>Les résultats des calculs du JM (JeuMaxi) et du Jm (Jeumini) nous renseignent sur le type d’assemblage réalisé :</p>
+<p><img src="{{context_path}}/content/resources/img4.png" width="457" height="126" alt="qdvq" /></p>
+<ul>
+<li>Si JM et Jm sont positifs (+ > 0) alors l’ajustement est dit Glissant ;</li>
+<li>Si JM et Jm sont positifs et négatifs ou nuls (+ et – ou 0) alors l’ajustement est dit Incertain.</li>
+<li>Si JM et Jm sont négatifs (- < 0) alors l’ajustement est dit Serré.</li>
+</ul>
+<p>Dans le système de l’alésage normal, la position pour les tolérances de tous les ALESAGES est donnée par la lettre H. L’ajustement désiré est obtenu en faisant varier pour l’arbre la position de la tolérance.</p>
+<p>Ainsi l’ajustement H7g6 est Glissant, H7p6 est Serré et H7h7 est Incertain.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Pour définir un contact entre deux pièces d’un assemblage, il nous faut savoir si celles-ci doivent être fixes, ajustée ou mobile l’une par rapport à l’autre. Ce contact est caractérisé par un Jeu dit « fonctionnel », espace ménagé entre deux pièces pour permettre le fonctionnement.</p>\n<p><img src=\"{{context_path}}/content/resources/img1.1.png\" width=\"221\" height=\"194\" alt=\"qd\" /></p>\n<p>Ce Jeu se calcule en effectuant l’opération suivante :</p>\n<p><img src=\"{{context_path}}/content/resources/img2.png\" width=\"456\" height=\"59\" alt=\"dsq\" /></p>\n<p>En fonction des positions des tolérances réalisées sur l’ALESAGE et sur l’arbre, le jeu peut être Maxi ou mini</p>\n<p> <img src=\"{{context_path}}/content/resources/img3.png\" width=\"664\" height=\"173\" alt=\"qdqea\" /></p>\n<p style=\"padding-left: 60px;\"><br /><strong>Jeu<sub>Maxi</sub> </strong>(JM ou Sm Serrage mini) <strong>= Cote<sub>Maxi</sub> ALESAGE – Cote<sub>mini</sub> arbre</strong></p>\n<p style=\"padding-left: 60px;\"><strong>Jeu<sub>mini</sub> </strong>(Jm ou SM Serrage Maxi) <strong>= Cote<sub>mini</sub> ALESAGE – Cote<sub>Maxi</sub> arbre</strong></p>\n<p>Les résultats des calculs du JM (JeuMaxi) et du Jm (Jeumini) nous renseignent sur le type d’assemblage réalisé :</p>\n<p><img src=\"{{context_path}}/content/resources/img4.png\" width=\"457\" height=\"126\" alt=\"qdvq\" /></p>\n<ul>\n<li>Si JM et Jm sont positifs (+ > 0) alors l’ajustement est dit Glissant ;</li>\n<li>Si JM et Jm sont positifs et négatifs ou nuls (+ et – ou 0) alors l’ajustement est dit Incertain.</li>\n<li>Si JM et Jm sont négatifs (- < 0) alors l’ajustement est dit Serré.</li>\n</ul>\n<p>Dans le système de l’alésage normal, la position pour les tolérances de tous les ALESAGES est donnée par la lettre H. L’ajustement désiré est obtenu en faisant varier pour l’arbre la position de la tolérance.</p>\n<p>Ainsi l’ajustement H7g6 est Glissant, H7p6 est Serré et H7h7 est Incertain.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mtv6hvau-te7dkwts4</odePageId>
+      <odeBlockId>block-mtv6hvav-z8txwjcq2</odeBlockId>
+      <blockName>File Attachments</blockName>
+      <iconName>assignment</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mtv6hvau-te7dkwts4</odePageId>
+          <odeBlockId>block-mtv6hvav-z8txwjcq2</odeBlockId>
+          <odeIdeviceId>idevice-mtv6hvav-71qv8stmj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><a href="{{context_path}}/content/resources/tableau ajustementsA4.pdf" target="_blank" download="tableau ajustementsA4.pdf">tableau ajustementsA4.pdf</a></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><a href=\"{{context_path}}/content/resources/tableau ajustementsA4.pdf\" target=\"_blank\" download=\"tableau ajustementsA4.pdf\">tableau ajustementsA4.pdf</a></p>"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mtv6hvau-vrtci9e1b</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Activité 5</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Activité 5</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mtv6hvau-vrtci9e1b</odePageId>
+      <odeBlockId>block-mtv6hvav-itlwwyudh</odeBlockId>
+      <blockName>Guidage en rotation par paliers lisses - Principes :</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mtv6hvau-vrtci9e1b</odePageId>
+          <odeBlockId>block-mtv6hvav-itlwwyudh</odeBlockId>
+          <odeIdeviceId>idevice-mtv6hvav-3q5prbmp0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<h2 style="text-align: center;">Principe :</h2>
+<p style="text-align: left;"> On interpose un <span style="color: #ff0000;"><strong>coussinet</strong></span> ayant de bonnes caractéristiques de frottement et/ou de résistance entre l'arbre et l'alésage.</p>
+<p style="text-align: left;"><img src="{{context_path}}/content/resources/img0.3.png" width="434" height="159" alt="qdq" /></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<h2 style=\"text-align: center;\">Principe :</h2>\n<p style=\"text-align: left;\"> On interpose un <span style=\"color: #ff0000;\"><strong>coussinet</strong></span> ayant de bonnes caractéristiques de frottement et/ou de résistance entre l'arbre et l'alésage.</p>\n<p style=\"text-align: left;\"><img src=\"{{context_path}}/content/resources/img0.3.png\" width=\"434\" height=\"159\" alt=\"qdq\" /></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mtv6hvau-vrtci9e1b</odePageId>
+      <odeBlockId>block-mtv6hvaw-ftdjy2sxg</odeBlockId>
+      <blockName>Guidage en rotation par paliers lisses - Montage des coussinets :</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mtv6hvau-vrtci9e1b</odePageId>
+          <odeBlockId>block-mtv6hvaw-ftdjy2sxg</odeBlockId>
+          <odeIdeviceId>idevice-mtv6hvaw-asfizlwqw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Le coussinet est monté <span style="color: #ff0000;"><strong>serré</strong> dans l'alésage</span> et <span style="color: #339966;"><strong>glissant</strong> sur l'arbre.</span></p>
+<p><img src="{{context_path}}/content/resources/img0.4.png" width="684" height="491" alt="qdq" /></p>
+<p><span style="text-decoration: underline;"><em>Remarque :</em></span> Lorsque l'effort à transmettre n'est par purement radial, il est conseillé d'utiliser un coussinet à collerette.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Le coussinet est monté <span style=\"color: #ff0000;\"><strong>serré</strong> dans l'alésage</span> et <span style=\"color: #339966;\"><strong>glissant</strong> sur l'arbre.</span></p>\n<p><img src=\"{{context_path}}/content/resources/img0.4.png\" width=\"684\" height=\"491\" alt=\"qdq\" /></p>\n<p><span style=\"text-decoration: underline;\"><em>Remarque :</em></span> Lorsque l'effort à transmettre n'est par purement radial, il est conseillé d'utiliser un coussinet à collerette.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
