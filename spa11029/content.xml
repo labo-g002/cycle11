@@ -1,0 +1,1342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>meca</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20261014182010OEIPH4</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20261014182010AB0ZQO</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.3</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SPA11-029 pompe a vide</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>fr</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>meca</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.3</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1791994817525</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mv8bfx25-to7heei97</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>presentation</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>presentation</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mv8bfx25-to7heei97</odePageId>
+      <odeBlockId>block-mv8bfx25-mur9w2dlg</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mv8bfx25-to7heei97</odePageId>
+          <odeBlockId>block-mv8bfx25-mur9w2dlg</odeBlockId>
+          <odeIdeviceId>idevice-mv8bfx25-1t62og46f</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p style="text-align: center;"><img src="{{context_path}}/content/resources/img0.png" width="312" height="396" alt="qsdfaq" /></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/img0.png\" width=\"312\" height=\"396\" alt=\"qsdfaq\" /></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mv8bfx25-to7heei97</odePageId>
+      <odeBlockId>block-mv8bfx26-ao94o06c4</odeBlockId>
+      <blockName>Mise en situation</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mv8bfx25-to7heei97</odePageId>
+          <odeBlockId>block-mv8bfx26-ao94o06c4</odeBlockId>
+          <odeIdeviceId>idevice-mv8bfx26-9qpc28768</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p style="text-align: center;"><img src="{{context_path}}/content/resources/img1.1.png" width="1096" height="703" alt="sedfsd" /></p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/img1.png" width="934" height="725" alt="zertgze" /></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/img1.1.png\" width=\"1096\" height=\"703\" alt=\"sedfsd\" /></p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/img1.png\" width=\"934\" height=\"725\" alt=\"zertgze\" /></p>"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mv8bfx25-to7heei97</odePageId>
+      <odeBlockId>block-mv8bfx26-5kqd3f77e</odeBlockId>
+      <blockName>Schéma simplifié du système de freinage</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mv8bfx25-to7heei97</odePageId>
+          <odeBlockId>block-mv8bfx26-5kqd3f77e</odeBlockId>
+          <odeIdeviceId>idevice-mv8bfx26-hpz1r6qpj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><img src="{{context_path}}/content/resources/img0.12.png" width="879" height="624" alt="" /></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><img src=\"{{context_path}}/content/resources/img0.12.png\" width=\"879\" height=\"624\" alt=\"\" /></p>"}]]></jsonProperties>
+          <odeComponentsOrder>2</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mv8bfx25-to7heei97</odePageId>
+      <odeBlockId>block-mv8bfx27-xdqto61nk</odeBlockId>
+      <blockName>Fonctionnement</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mv8bfx25-to7heei97</odePageId>
+          <odeBlockId>block-mv8bfx27-xdqto61nk</odeBlockId>
+          <odeIdeviceId>idevice-mv8bfx27-hqlg9fhgo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><img src="{{context_path}}/content/resources/img0.13.png" width="1001" height="660" alt="szqefdqez" /></p>
+<p>Les palettes sont réparties autour de la pompe sur le barillet. Le mouvement de l’arbre excentré déplace donc chaque palette l’une après l’autre. Constamment en contact avec l’intérieur du carter, ce qui permet d’obtenir une dépression en continu.</p>
+<p><img src="{{context_path}}/content/resources/img0.png" width="192" height="244" alt="qsc" /></p>
+<p><img src="{{context_path}}/content/resources/img2.png" width="829" height="433" alt="ghr" /></p>
+<p>Lors du freinage, le rôle de la pompe à vide est de créer une dépression dans la chambre B du servo-frein de façon à ce que l ’effort du conducteur sur la pédale de frein soit moindre pour déplacer le piston.</p>
+<p><img src="{{context_path}}/content/resources/img3.png" width="1021" height="738" alt="rg" /></p>
+<p><img src="{{context_path}}/content/resources/pompe_a_vide.gif" alt="" width="742" height="532" /></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><img src=\"{{context_path}}/content/resources/img0.13.png\" width=\"1001\" height=\"660\" alt=\"szqefdqez\" /></p>\n<p>Les palettes sont réparties autour de la pompe sur le barillet. Le mouvement de l’arbre excentré déplace donc chaque palette l’une après l’autre. Constamment en contact avec l’intérieur du carter, ce qui permet d’obtenir une dépression en continu.</p>\n<p><img src=\"{{context_path}}/content/resources/img0.png\" width=\"192\" height=\"244\" alt=\"qsc\" /></p>\n<p><img src=\"{{context_path}}/content/resources/img2.png\" width=\"829\" height=\"433\" alt=\"ghr\" /></p>\n<p>Lors du freinage, le rôle de la pompe à vide est de créer une dépression dans la chambre B du servo-frein de façon à ce que l ’effort du conducteur sur la pédale de frein soit moindre pour déplacer le piston.</p>\n<p><img src=\"{{context_path}}/content/resources/img3.png\" width=\"1021\" height=\"738\" alt=\"rg\" /></p>\n<p><img src=\"{{context_path}}/content/resources/pompe_a_vide.gif\" alt=\"\" width=\"742\" height=\"532\" /></p>"}]]></jsonProperties>
+          <odeComponentsOrder>3</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mv8bfx25-9mwc0h06p</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Téléchargements :</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Téléchargements :</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mv8bfx25-9mwc0h06p</odePageId>
+      <odeBlockId>block-mv8bfx27-byyvjaoob</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mv8bfx25-9mwc0h06p</odePageId>
+          <odeBlockId>block-mv8bfx27-byyvjaoob</odeBlockId>
+          <odeIdeviceId>idevice-mv8bfx27-3q0flujdb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mv8bfx25-9mwc0h06p</odePageId>
+      <odeBlockId>block-mv8bfx27-ncq8gdyzp</odeBlockId>
+      <blockName>File Attachments</blockName>
+      <iconName>assignment</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mv8bfx25-9mwc0h06p</odePageId>
+          <odeBlockId>block-mv8bfx27-ncq8gdyzp</odeBlockId>
+          <odeIdeviceId>idevice-mv8bfx27-4m4pe2qui</odeIdeviceId>
+          <odeIdeviceTypeName>file-attachment</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="fileAttachment-IDevice"><ul class="fileAttachment-list"><li class="fileAttachment-item fileAttachment-item--file"><a class="fileAttachment-link" href="{{context_path}}/content/resources/CAO11-029.zip" download="CAO11-029.zip"><span class="fileAttachment-text"><span class="fileAttachment-title">CAO11-029.zip</span></span></a></li></ul></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"intro":"","showDescriptions":true,"attachments":[{"url":"{{context_path}}/content/resources/CAO11-029.zip","filename":"CAO11-029.zip","mimeType":"","size":0,"title":"","description":""}]}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mv8bfx25-3b0ny0cdm</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Activité 1</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Activité 1</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mv8bfx25-3b0ny0cdm</odePageId>
+      <odeBlockId>block-mv8bfx27-1n2whsu9e</odeBlockId>
+      <blockName>SADT</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mv8bfx25-3b0ny0cdm</odePageId>
+          <odeBlockId>block-mv8bfx27-1n2whsu9e</odeBlockId>
+          <odeIdeviceId>idevice-mv8bfx27-6mpsc19jy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><img src="{{context_path}}/content/resources/img0.3.png" width="1076" height="692" alt="sadt" /></p>
+<p><strong>Données de contrôle :</strong> Elles enclenchent, modifient et caractérisent la fonction du système. Elles ne sont pas modifiables par le système. Il existe quatre catégories de données de contrôle :</p>
+<p style="text-align: center;"><strong>Question à se poser : </strong>De quoi a-t-on besoin pour faire la transformation ?</p>
+<p><strong>Énergie (W) :</strong> Énergie électrique, pneumatique, hydraulique, mécanique, humaine, etc…</p>
+<p><strong>Configuration (C) :</strong> Programmation d’un ordinateur, d’un automate, etc…</p>
+<p><strong>Réglage (R) :</strong> Réglage de vitesses, de paramètres électriques, etc…</p>
+<p><strong>Exploitation (E) (commande) :</strong> Données opérateur ou matériel (Marche/Arrêt, départ cycle, etc…)</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><img src=\"{{context_path}}/content/resources/img0.3.png\" width=\"1076\" height=\"692\" alt=\"sadt\" /></p>\n<p><strong>Données de contrôle :</strong> Elles enclenchent, modifient et caractérisent la fonction du système. Elles ne sont pas modifiables par le système. Il existe quatre catégories de données de contrôle :</p>\n<p style=\"text-align: center;\"><strong>Question à se poser : </strong>De quoi a-t-on besoin pour faire la transformation ?</p>\n<p><strong>Énergie (W) :</strong> Énergie électrique, pneumatique, hydraulique, mécanique, humaine, etc…</p>\n<p><strong>Configuration (C) :</strong> Programmation d’un ordinateur, d’un automate, etc…</p>\n<p><strong>Réglage (R) :</strong> Réglage de vitesses, de paramètres électriques, etc…</p>\n<p><strong>Exploitation (E) (commande) :</strong> Données opérateur ou matériel (Marche/Arrêt, départ cycle, etc…)</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mv8bfx25-xben4akmw</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Activité 2</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Activité 2</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mv8bfx25-xben4akmw</odePageId>
+      <odeBlockId>block-mv8bfx28-b5wyo5wqd</odeBlockId>
+      <blockName>Rôle des ajustements</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mv8bfx25-xben4akmw</odePageId>
+          <odeBlockId>block-mv8bfx28-b5wyo5wqd</odeBlockId>
+          <odeIdeviceId>idevice-mv8bfx28-8aqil57cf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Ajuster 2 pièces, c'est emboîter parfaitement ces 2 pièces avec du jeu (liaison) ou du serrage (assemblage) suivant le fonctionnement désiré.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Ajuster 2 pièces, c'est emboîter parfaitement ces 2 pièces avec du jeu (liaison) ou du serrage (assemblage) suivant le fonctionnement désiré.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mv8bfx25-xben4akmw</odePageId>
+      <odeBlockId>block-mv8bfx28-3lo9750k3</odeBlockId>
+      <blockName>Ajustements normalisés- système ISO. </blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mv8bfx25-xben4akmw</odePageId>
+          <odeBlockId>block-mv8bfx28-3lo9750k3</odeBlockId>
+          <odeIdeviceId>idevice-mv8bfx28-z8pu2qy3l</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>C'est par économie que l'on a créé ces ajustements (moins d’outillage de contrôle). Les tolérances sont indiquées par des symboles.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>C'est par économie que l'on a créé ces ajustements (moins d’outillage de contrôle). Les tolérances sont indiquées par des symboles.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mv8bfx25-xben4akmw</odePageId>
+      <odeBlockId>block-mv8bfx28-mqaibp37j</odeBlockId>
+      <blockName>Désignations:</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mv8bfx25-xben4akmw</odePageId>
+          <odeBlockId>block-mv8bfx28-mqaibp37j</odeBlockId>
+          <odeIdeviceId>idevice-mv8bfx28-f3wzfrlm5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><img src="{{context_path}}/content/resources/img0.7.png" width="829" height="388" alt="sdcs" /></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><img src=\"{{context_path}}/content/resources/img0.7.png\" width=\"829\" height=\"388\" alt=\"sdcs\" /></p>"}]]></jsonProperties>
+          <odeComponentsOrder>2</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mv8bfx25-xben4akmw</odePageId>
+      <odeBlockId>block-mv8bfx28-sti8ut19a</odeBlockId>
+      <blockName>Positions des tolérances avec alésage normal (H): </blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mv8bfx25-xben4akmw</odePageId>
+          <odeBlockId>block-mv8bfx28-sti8ut19a</odeBlockId>
+          <odeIdeviceId>idevice-mv8bfx28-0xl7vypf8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><img src="{{context_path}}/content/resources/img0.8.png" width="651" height="169" alt="fv<f" /></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><img src=\"{{context_path}}/content/resources/img0.8.png\" width=\"651\" height=\"169\" alt=\"fv<f\" /></p>"}]]></jsonProperties>
+          <odeComponentsOrder>3</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mv8bfx25-xben4akmw</odePageId>
+      <odeBlockId>block-mv8bfx28-rp1fruv0o</odeBlockId>
+      <blockName>Qualités des tolérances:</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mv8bfx25-xben4akmw</odePageId>
+          <odeBlockId>block-mv8bfx28-rp1fruv0o</odeBlockId>
+          <odeIdeviceId>idevice-mv8bfx28-xrrm3y0tb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>5 et 6 : mécanique de précision</p>
+<p>7 et 8 : mécanique courante</p>
+<p>9 à 13 : mécanique grossière</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>5 et 6 : mécanique de précision</p>\n<p>7 et 8 : mécanique courante</p>\n<p>9 à 13 : mécanique grossière</p>"}]]></jsonProperties>
+          <odeComponentsOrder>4</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mv8bfx25-xben4akmw</odePageId>
+      <odeBlockId>block-mv8bfx28-xjfig3a6n</odeBlockId>
+      <blockName>Calculs du jeu</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>5</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mv8bfx25-xben4akmw</odePageId>
+          <odeBlockId>block-mv8bfx28-xjfig3a6n</odeBlockId>
+          <odeIdeviceId>idevice-mv8bfx28-xnkzdlsdv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Jeu<sub>Maxi</sub> = Ø<sub>Maxi</sub> ALESAGE – Ø<sub>mini</sub> arbre<img src="{{context_path}}/content/resources/img0.9.png" width="291" height="170" alt="evtrsbd" style="float: left;" /></p>
+<p><br />Jeu<sub>mini</sub> = Ø<sub>mini</sub> ALESAGE – Ø<sub>Maxi</sub> arbre</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Jeu<sub>Maxi</sub> = Ø<sub>Maxi</sub> ALESAGE – Ø<sub>mini</sub> arbre<img src=\"{{context_path}}/content/resources/img0.9.png\" width=\"291\" height=\"170\" alt=\"evtrsbd\" style=\"float: left;\" /></p>\n<p><br />Jeu<sub>mini</sub> = Ø<sub>mini</sub> ALESAGE – Ø<sub>Maxi</sub> arbre</p>"}]]></jsonProperties>
+          <odeComponentsOrder>5</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mv8bfx25-xben4akmw</odePageId>
+      <odeBlockId>block-mv8bfx28-knczz8fzm</odeBlockId>
+      <blockName>Calculs du jeu (méthode des écarts)</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>6</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mv8bfx25-xben4akmw</odePageId>
+          <odeBlockId>block-mv8bfx28-knczz8fzm</odeBlockId>
+          <odeIdeviceId>idevice-mv8bfx28-r1ekuwkco</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Cette méthode permet de ne pas avoir à convertir les micromètres en millimètres. (1µm = 0,001 mm)</p>
+<p><img src="{{context_path}}/content/resources/img0.10.png" width="825" height="196" alt="fdg" /></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Cette méthode permet de ne pas avoir à convertir les micromètres en millimètres. (1µm = 0,001 mm)</p>\n<p><img src=\"{{context_path}}/content/resources/img0.10.png\" width=\"825\" height=\"196\" alt=\"fdg\" /></p>"}]]></jsonProperties>
+          <odeComponentsOrder>6</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mv8bfx25-xben4akmw</odePageId>
+      <odeBlockId>block-mv8bfx28-8s2stwezj</odeBlockId>
+      <blockName>Types d’ajustements</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>7</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mv8bfx25-xben4akmw</odePageId>
+          <odeBlockId>block-mv8bfx28-8s2stwezj</odeBlockId>
+          <odeIdeviceId>idevice-mv8bfx28-hhagqrutz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<table border="1" style="width: 43.7215%;">
+<tbody>
+<tr>
+<td style="width: 7.60135%;"></td>
+<td style="width: 12.8377%; text-align: center;">Avec jeu</td>
+<td style="width: 11.8293%; text-align: center;">incertain</td>
+<td style="width: 11.4537%; text-align: center;">serrée</td>
+</tr>
+<tr>
+<td style="width: 7.60135%;">Jeu Maxi</td>
+<td style="width: 12.8377%; text-align: center;">+</td>
+<td style="width: 11.8293%; text-align: center;">+</td>
+<td style="width: 11.4537%; text-align: center;">-0</td>
+</tr>
+<tr>
+<td style="width: 7.60135%;">Jeu mini</td>
+<td style="width: 12.8377%; text-align: center;">+0</td>
+<td style="width: 11.8293%; text-align: center;">-</td>
+<td style="width: 11.4537%; text-align: center;">-</td>
+</tr>
+</tbody>
+</table>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<table border=\"1\" style=\"width: 43.7215%;\">\n<tbody>\n<tr>\n<td style=\"width: 7.60135%;\"></td>\n<td style=\"width: 12.8377%; text-align: center;\">Avec jeu</td>\n<td style=\"width: 11.8293%; text-align: center;\">incertain</td>\n<td style=\"width: 11.4537%; text-align: center;\">serrée</td>\n</tr>\n<tr>\n<td style=\"width: 7.60135%;\">Jeu Maxi</td>\n<td style=\"width: 12.8377%; text-align: center;\">+</td>\n<td style=\"width: 11.8293%; text-align: center;\">+</td>\n<td style=\"width: 11.4537%; text-align: center;\">-0</td>\n</tr>\n<tr>\n<td style=\"width: 7.60135%;\">Jeu mini</td>\n<td style=\"width: 12.8377%; text-align: center;\">+0</td>\n<td style=\"width: 11.8293%; text-align: center;\">-</td>\n<td style=\"width: 11.4537%; text-align: center;\">-</td>\n</tr>\n</tbody>\n</table>"}]]></jsonProperties>
+          <odeComponentsOrder>7</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mv8bfx25-z2yzg4r1y</odePageId>
+  <odeParentPageId>page-mv8bfx25-xben4akmw</odeParentPageId>
+  <pageName>Principaux écarts pour un Alésage</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Principaux écarts pour un Alésage</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mv8bfx25-z2yzg4r1y</odePageId>
+      <odeBlockId>block-mv8bfx28-5qr8lisjv</odeBlockId>
+      <blockName>Image Magnifier</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mv8bfx25-z2yzg4r1y</odePageId>
+          <odeBlockId>block-mv8bfx28-5qr8lisjv</odeBlockId>
+          <odeIdeviceId>idevice-mv8bfx28-5bflwpfbn</odeIdeviceId>
+          <odeIdeviceTypeName>magnifier</odeIdeviceTypeName>
+          <htmlView><![CDATA[]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"","imageResource":"{{context_path}}/content/resources/tableau ajustements alesage.jpg","isDefaultImage":"0","width":"600","height":"100","align":"left","initialZSize":"200","maxZSize":"150","glassSize":"2"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mv8bfx25-d18oj9mmp</odePageId>
+  <odeParentPageId>page-mv8bfx25-xben4akmw</odeParentPageId>
+  <pageName>Principaux écarts pour un Arbre</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Principaux écarts pour un Arbre</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mv8bfx25-d18oj9mmp</odePageId>
+      <odeBlockId>block-mv8bfx28-4hrzbyljj</odeBlockId>
+      <blockName>Image Magnifier</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mv8bfx25-d18oj9mmp</odePageId>
+          <odeBlockId>block-mv8bfx28-4hrzbyljj</odeBlockId>
+          <odeIdeviceId>idevice-mv8bfx28-axyjdekel</odeIdeviceId>
+          <odeIdeviceTypeName>magnifier</odeIdeviceTypeName>
+          <htmlView><![CDATA[]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"","imageResource":"{{context_path}}/content/resources/tableau ajustements arbre.jpg","isDefaultImage":"0","width":"600","height":"100","align":"left","initialZSize":"200","maxZSize":"150","glassSize":"2"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mv8bfx25-04uh6xv2c</odePageId>
+  <odeParentPageId>page-mv8bfx25-xben4akmw</odeParentPageId>
+  <pageName>Tableau des tolérances sur les roulements (DIN 620) pour les bagues intérieures des roulements </pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tableau des tolérances sur les roulements (DIN 620) pour les bagues intérieures des roulements </value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mv8bfx25-04uh6xv2c</odePageId>
+      <odeBlockId>block-mv8bfx28-emmnb97ri</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mv8bfx25-04uh6xv2c</odePageId>
+          <odeBlockId>block-mv8bfx28-emmnb97ri</odeBlockId>
+          <odeIdeviceId>idevice-mv8bfx28-o8sj3f35a</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><img src="{{context_path}}/content/resources/img0.11.png" width="928" height="473" alt="dfvf" /></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><img src=\"{{context_path}}/content/resources/img0.11.png\" width=\"928\" height=\"473\" alt=\"dfvf\" /></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mv8bfx25-h1o33csj8</odePageId>
+  <odeParentPageId>page-mv8bfx25-xben4akmw</odeParentPageId>
+  <pageName>Mesurer dans solidworks</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Mesurer dans solidworks</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mv8bfx25-h1o33csj8</odePageId>
+      <odeBlockId>block-mv8bfx28-w7e9taj6f</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mv8bfx25-h1o33csj8</odePageId>
+          <odeBlockId>block-mv8bfx28-w7e9taj6f</odeBlockId>
+          <odeIdeviceId>idevice-mv8bfx28-pec3u7wdt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Cette activité va consister à donner toutes les dimensions caractérisant chaque volume</p>
+<p>Pour savoir utiliser l’icône « Mesurer » de Solidworks, veuillez visionner la vidéo:</p>
+<p><video width="600" height="240" controls="controls">
+<source src="{{context_path}}/content/resources/mesurer_dans_solidworks.mp4" type="video/mp4" /></video></p>
+<p>Pour réaliser cette activité, ouvrez les fichiers pièces dans votre répertoire CAO03-002/VOLUMES.</p>
+<p>Mesurer les dimensions des volumes et compléter la colonne « DIMENSIONS » du doc DR1</p>
+<p> </p>
+<p><em>Vous pouvez voir les dimensions à mesurer dans l'activité 1</em></p>
+<p> </p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Cette activité va consister à donner toutes les dimensions caractérisant chaque volume</p>\n<p>Pour savoir utiliser l’icône « Mesurer » de Solidworks, veuillez visionner la vidéo:</p>\n<p><video width=\"600\" height=\"240\" controls=\"controls\">\n<source src=\"{{context_path}}/content/resources/mesurer_dans_solidworks.mp4\" type=\"video/mp4\" /></video></p>\n<p>Pour réaliser cette activité, ouvrez les fichiers pièces dans votre répertoire CAO03-002/VOLUMES.</p>\n<p>Mesurer les dimensions des volumes et compléter la colonne « DIMENSIONS » du doc DR1</p>\n<p> </p>\n<p><em>Vous pouvez voir les dimensions à mesurer dans l'activité 1</em></p>\n<p> </p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mv8bfx25-y60w9hgzy</odePageId>
+  <odeParentPageId>page-mv8bfx25-xben4akmw</odeParentPageId>
+  <pageName>Obtenir l’éclatée du modèle numérique</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Obtenir l’éclatée du modèle numérique</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mv8bfx25-y60w9hgzy</odePageId>
+      <odeBlockId>block-mv8bfx28-0kyizhyvt</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mv8bfx25-y60w9hgzy</odePageId>
+          <odeBlockId>block-mv8bfx28-0kyizhyvt</odeBlockId>
+          <odeIdeviceId>idevice-mv8bfx28-p8pdproe5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mv8bfx25-y60w9hgzy</odePageId>
+      <odeBlockId>block-mv8bfx28-fld1v30pz</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mv8bfx25-y60w9hgzy</odePageId>
+          <odeBlockId>block-mv8bfx28-fld1v30pz</odeBlockId>
+          <odeIdeviceId>idevice-mv8bfx28-eu1j0ynfe</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><strong><img src="{{context_path}}/content/resources/m1_img0.9.png" width="1098" height="623" alt="fdghdf" /></strong></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><strong><img src=\"{{context_path}}/content/resources/m1_img0.9.png\" width=\"1098\" height=\"623\" alt=\"fdghdf\" /></strong></p>"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mv8bfx25-3rhbnxnqh</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Activité 3</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Activité 3</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mv8bfx25-3rhbnxnqh</odePageId>
+      <odeBlockId>block-mv8bfx28-fyu7qzvyg</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mv8bfx25-3rhbnxnqh</odePageId>
+          <odeBlockId>block-mv8bfx28-fyu7qzvyg</odeBlockId>
+          <odeIdeviceId>idevice-mv8bfx28-1t964jw8r</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><a title="vocabulaire technique" class="exe-dialog-link" rel="lightbox" href="#tfa73d005-60d2-7564-f556-e9781a1b7f08" id="linkfa73d005-60d2-7564-f556-e9781a1b7f08"><img src="{{context_path}}/content/resources/voctechnique.jpg" width="152" height="167" alt="voctech" /></a></p>
+<div id="tfa73d005-60d2-7564-f556-e9781a1b7f08" class="exe-dialog-text js-hidden">
+<p><img src="{{context_path}}/content/resources/voctechnique.jpg" width="1051" height="1156" alt="voc" /></p>
+</div>
+<div id="gtx-trans" style="position: absolute; left: 4px; top: 252.575px;">
+<div class="gtx-trans-icon"></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><a title=\"vocabulaire technique\" class=\"exe-dialog-link\" rel=\"lightbox\" href=\"#tfa73d005-60d2-7564-f556-e9781a1b7f08\" id=\"linkfa73d005-60d2-7564-f556-e9781a1b7f08\"><img src=\"{{context_path}}/content/resources/voctechnique.jpg\" width=\"152\" height=\"167\" alt=\"voctech\" /></a></p>\n<div id=\"tfa73d005-60d2-7564-f556-e9781a1b7f08\" class=\"exe-dialog-text js-hidden\">\n<p><img src=\"{{context_path}}/content/resources/voctechnique.jpg\" width=\"1051\" height=\"1156\" alt=\"voc\" /></p>\n</div>\n<div id=\"gtx-trans\" style=\"position: absolute; left: 4px; top: 252.575px;\">\n<div class=\"gtx-trans-icon\"></div>\n</div>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mv8bfx25-mol81h1cy</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Activité 4 à 6</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Activité 4 à 6</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mv8bfx25-mol81h1cy</odePageId>
+      <odeBlockId>block-mv8bfx29-zf9hjxb14</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mv8bfx25-mol81h1cy</odePageId>
+          <odeBlockId>block-mv8bfx29-zf9hjxb14</odeBlockId>
+          <odeIdeviceId>idevice-mv8bfx29-6tgmft5xn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<form>
+<div align="center"><span style="color: #ff0000; font-family: arial, helvetica, sans-serif; font-size: xx-large;"> </span>
+<p></p>
+</div>
+<table border="" bordercolor="#000000" style="height: 2681px;">
+<tbody>
+<tr style="height: 85px;">
+<td valign="MIDDLE" height="57" bgcolor="#FFFF33" style="width: 132.462px; height: 85px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;">Nom de la liaison </span></p>
+</td>
+<td colspan="2" valign="MIDDLE" height="57" bgcolor="#FFFF33" style="width: 103.05px; height: 85px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;">Mouvements</span></p>
+</td>
+<td valign="MIDDLE" height="57" bgcolor="#FFFF33" style="width: 88.925px; height: 85px;">
+<div align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;">Degrés de liberté</span></div>
+</td>
+<td valign="MIDDLE" height="57" bgcolor="#FFFF33" style="width: 120.062px; height: 85px;">
+<div align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;">Orientée<br />par</span></div>
+</td>
+<td valign="MIDDLE" height="57" bgcolor="#FFFF33" style="width: 80.05px; height: 85px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;">Animation</span></p>
+</td>
+<td valign="MIDDLE" height="57" bgcolor="#FFFF33" style="width: 122.088px; height: 85px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;">Représentation spatiale</span></p>
+</td>
+<td valign="MIDDLE" height="57" bgcolor="#FFFF33" style="width: 122.088px; height: 85px;">
+<div align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;">Représentation plane</span></div>
+</td>
+</tr>
+<tr style="height: 59px;">
+<td valign="MIDDLE" rowspan="4" height="15" style="width: 132.462px; height: 236px;">
+<p align="center"><span style="color: #000000; font-family: arial, helvetica, sans-serif; font-size: medium;">ENCASTREMENT</span></p>
+<p align="center"><span style="color: #000000; font-family: arial, helvetica, sans-serif; font-size: medium;">OU</span></p>
+<p align="center"><span style="color: #000000; font-family: arial, helvetica, sans-serif; font-size: medium;">FIXE</span></p>
+</td>
+<td valign="MIDDLE" height="15" bgcolor="#FFFF99" style="width: 49.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>T</b></span></p>
+</td>
+<td valign="MIDDLE" height="15" bgcolor="#FFFF99" style="width: 48.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>R</b></span></p>
+</td>
+<td valign="MIDDLE" rowspan="4" height="15" style="width: 88.925px; height: 236px;">
+<div align="center">
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>0</b></span></p>
+<p><span style="color: #ff0000; font-family: arial, helvetica, sans-serif; font-size: medium;">(Aucun mouvement)</span></p>
+</div>
+</td>
+<td rowspan="4" valign="MIDDLE" height="81" style="width: 120.062px; height: 236px;">
+<div align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: medium;">Centre<br /><span style="font-size: small;">(ici B)</span></span></div>
+</td>
+<td valign="MIDDLE" rowspan="4" height="15" style="width: 80.05px; height: 236px;"><img src="{{context_path}}/content/resources/img32.png" width="115" height="90" alt="znca1" /></td>
+<td valign="MIDDLE" rowspan="4" height="15" style="width: 122.088px; height: 236px;"><img src="{{context_path}}/content/resources/img33.png" width="100" height="100" alt="encas2" /></td>
+<td rowspan="4" valign="MIDDLE" height="81" style="width: 122.088px; height: 236px;">
+<div align="center"><img src="{{context_path}}/content/resources/img33.png" width="200" height="100" alt="enca3" /></div>
+</td>
+</tr>
+<tr style="height: 59px;">
+<td valign="MIDDLE" height="22" style="width: 49.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>0</b> </span></p>
+</td>
+<td valign="MIDDLE" height="22" style="width: 48.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>0</b> </span></p>
+</td>
+</tr>
+<tr style="height: 59px;">
+<td valign="MIDDLE" height="22" style="width: 49.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>0</b> </span></p>
+</td>
+<td valign="MIDDLE" height="22" style="width: 48.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>0</b> </span></p>
+</td>
+</tr>
+<tr style="height: 59px;">
+<td valign="MIDDLE" height="22" style="width: 49.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>0</b> </span></p>
+</td>
+<td valign="MIDDLE" height="22" style="width: 48.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>0</b> </span></p>
+</td>
+</tr>
+<tr style="height: 59px;">
+<td valign="MIDDLE" rowspan="4" height="34" style="width: 132.462px; height: 236px;">
+<p align="center"><span style="color: #000000; font-family: arial, helvetica, sans-serif; font-size: medium;">PIVOT </span></p>
+</td>
+<td valign="MIDDLE" height="34" bgcolor="#FFFF99" style="width: 49.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>T</b></span></p>
+</td>
+<td valign="MIDDLE" height="34" bgcolor="#FFFF99" style="width: 48.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>R</b></span></p>
+</td>
+<td valign="MIDDLE" rowspan="4" height="34" style="width: 88.925px; height: 236px;">
+<div align="center">
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>1</b></span></p>
+</div>
+</td>
+<td rowspan="4" valign="MIDDLE" height="136" style="width: 120.062px; height: 236px;">
+<div align="center">
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: medium;">Centre<br /><span style="font-size: small;">(ici A)</span><br />+<br />Axe de rotation<br /><span style="font-size: small;">(ici Ax)</span></span></p>
+</div>
+</td>
+<td valign="MIDDLE" rowspan="4" height="34" style="width: 80.05px; height: 236px;"><img src="{{context_path}}/content/resources/LIA_PIVO.GIF" alt="" width="115" height="90" /></td>
+<td valign="MIDDLE" rowspan="4" height="34" style="width: 122.088px; height: 236px;"><img src="{{context_path}}/content/resources/img9.1.png" width="122" height="94" alt="piv2" /></td>
+<td rowspan="4" valign="MIDDLE" height="136" style="width: 122.088px; height: 236px;"><img src="{{context_path}}/content/resources/img10.png" width="122" height="61" alt="piv3" /></td>
+</tr>
+<tr style="height: 59px;">
+<td valign="MIDDLE" height="34" style="width: 49.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>0</b> </span></p>
+</td>
+<td valign="MIDDLE" height="34" style="width: 48.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b><span style="color: #ff0000;">Rx</span></b> </span></p>
+</td>
+</tr>
+<tr style="height: 59px;">
+<td valign="MIDDLE" height="34" style="width: 49.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>0</b> </span></p>
+</td>
+<td valign="MIDDLE" height="34" style="width: 48.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>0</b> </span></p>
+</td>
+</tr>
+<tr style="height: 59px;">
+<td valign="MIDDLE" height="34" style="width: 49.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>0</b> </span></p>
+</td>
+<td valign="MIDDLE" height="34" style="width: 48.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>0</b> </span></p>
+</td>
+</tr>
+<tr style="height: 59px;">
+<td valign="MIDDLE" rowspan="4" height="41" style="width: 132.462px; height: 236px;">
+<p align="center"><span style="color: #000000; font-family: arial, helvetica, sans-serif; font-size: medium;">GLISSIÈRE </span></p>
+</td>
+<td valign="middle" height="41" bgcolor="#FFFF99" style="width: 49.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>T</b></span></p>
+</td>
+<td valign="middle" height="41" bgcolor="#FFFF99" style="width: 48.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>R</b></span></p>
+</td>
+<td valign="MIDDLE" rowspan="4" height="41" style="width: 88.925px; height: 236px;">
+<div align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>1</b></span></div>
+</td>
+<td rowspan="4" valign="middle" height="164" style="width: 120.062px; height: 236px;">
+<div align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: medium;">Centre<br /><span style="font-size: small;">(ici A)</span><br />+ <br />Axe de translation<br /><span style="font-size: small;"> (ici Ax)</span></span></div>
+</td>
+<td valign="MIDDLE" rowspan="4" height="41" style="width: 80.05px; height: 236px;"><img src="{{context_path}}/content/resources/lia_glis.gif" alt="" width="115" height="90" /></td>
+<td valign="MIDDLE" rowspan="4" height="41" style="width: 122.088px; height: 236px;"><img src="{{context_path}}/content/resources/img12.png" width="120" height="100" alt="glis2" /></td>
+<td rowspan="4" valign="middle" height="164" style="width: 122.088px; height: 236px;"><img src="{{context_path}}/content/resources/img13.png" width="122" height="61" alt="glis3" /></td>
+</tr>
+<tr style="height: 59px;">
+<td valign="middle" height="41" style="width: 49.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b><span style="color: #ff0000;">Tx</span></b> </span></p>
+</td>
+<td valign="middle" height="41" style="width: 48.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>0</b> </span></p>
+</td>
+</tr>
+<tr style="height: 59px;">
+<td valign="middle" height="41" style="width: 49.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>0</b> </span></p>
+</td>
+<td valign="middle" height="41" style="width: 48.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>0</b> </span></p>
+</td>
+</tr>
+<tr style="height: 59px;">
+<td valign="middle" height="41" style="width: 49.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>0</b> </span></p>
+</td>
+<td valign="middle" height="41" style="width: 48.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>0</b> </span></p>
+</td>
+</tr>
+<tr style="height: 59px;">
+<td valign="MIDDLE" rowspan="4" height="20" style="width: 132.462px; height: 236px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif;"><span style="color: #000000; font-size: medium;">HÉLICOÏDALE</span><span style="color: #000000; font-size: medium;"> </span></span></p>
+</td>
+<td valign="middle" height="20" bgcolor="#FFFF99" style="width: 49.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>T</b> </span></p>
+</td>
+<td valign="middle" height="20" bgcolor="#FFFF99" style="width: 48.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>R</b> </span></p>
+</td>
+<td valign="MIDDLE" rowspan="4" height="20" style="width: 88.925px; height: 236px;">
+<div align="center">
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>1</b></span></p>
+<p><span style="color: #ff0000; font-family: arial, helvetica, sans-serif; font-size: medium;">(Translation et Rotation conjuguées)</span></p>
+</div>
+</td>
+<td rowspan="4" valign="middle" height="121" style="width: 120.062px; height: 236px;">
+<div align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: medium;">Centre<br /><span style="font-size: small;">(ici B)</span><br />+ <br />Axe de translation et rotation conjuguées<br /><span style="font-size: small;">(ici By)</span></span></div>
+</td>
+<td valign="MIDDLE" rowspan="4" height="20" style="width: 80.05px; height: 236px;"><img src="{{context_path}}/content/resources/lia_heli.gif" alt="" width="115" height="90" /></td>
+<td valign="MIDDLE" rowspan="4" height="20" style="width: 122.088px; height: 236px;"><img src="{{context_path}}/content/resources/img15.png" width="122" height="94" alt="hel2" /></td>
+<td rowspan="4" valign="middle" height="121" style="width: 122.088px; height: 236px;"><img src="{{context_path}}/content/resources/img16.png" width="122" height="61" alt="hel3" /></td>
+</tr>
+<tr style="height: 59px;">
+<td valign="middle" height="34" style="width: 49.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>0</b></span></p>
+</td>
+<td valign="middle" height="34" style="width: 48.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>0</b></span></p>
+</td>
+</tr>
+<tr style="height: 59px;">
+<td valign="middle" height="34" style="width: 49.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif;"><span style="color: #ff0000; font-size: large;"><b>Ty</b></span><span style="font-size: large;"> </span></span></p>
+</td>
+<td valign="middle" height="34" style="width: 48.425px; height: 59px;">
+<p align="center"><span style="color: #ff0000; font-family: arial, helvetica, sans-serif; font-size: large;"><b>Ry</b></span></p>
+</td>
+</tr>
+<tr style="height: 59px;">
+<td valign="middle" height="33" style="width: 49.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>0</b> </span></p>
+</td>
+<td valign="middle" height="33" style="width: 48.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>0</b></span></p>
+</td>
+</tr>
+<tr style="height: 59px;">
+<td valign="MIDDLE" rowspan="4" height="40" style="width: 132.462px; height: 236px;">
+<p align="center"><span style="color: #000000; font-family: arial, helvetica, sans-serif; font-size: medium;">PIVOT GLISSANT </span></p>
+</td>
+<td valign="middle" height="40" bgcolor="#FFFF99" style="width: 49.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>T</b> </span></p>
+</td>
+<td valign="middle" height="40" bgcolor="#FFFF99" style="width: 48.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>R</b> </span></p>
+</td>
+<td valign="MIDDLE" rowspan="4" height="40" style="width: 88.925px; height: 236px;">
+<div align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>2</b></span></div>
+</td>
+<td rowspan="4" valign="middle" height="160" style="width: 120.062px; height: 236px;">
+<div align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: medium;"><br />Centre<br /><span style="font-size: small;">(ici C)</span><br />+ <br />Axe de translation et de rotation <br /><span style="font-size: small;"> (ici Cx)</span></span></div>
+</td>
+<td valign="MIDDLE" rowspan="4" height="40" style="width: 80.05px; height: 236px;"><img src="{{context_path}}/content/resources/lia_pivg.gif" alt="" width="115" height="90" /></td>
+<td valign="MIDDLE" rowspan="4" height="40" style="width: 122.088px; height: 236px;"><img src="{{context_path}}/content/resources/img17.png" width="122" height="94" alt="piv1" /></td>
+<td rowspan="4" valign="middle" height="160" style="width: 122.088px; height: 236px;"><img src="{{context_path}}/content/resources/img18.png" width="122" height="61" alt="piv3" /></td>
+</tr>
+<tr style="height: 59px;">
+<td valign="middle" height="40" style="width: 49.425px; height: 59px;">
+<p align="center"><span style="color: #ff0000; font-family: arial, helvetica, sans-serif; font-size: large;"><b>Tx</b></span></p>
+</td>
+<td valign="middle" height="40" style="width: 48.425px; height: 59px;">
+<p align="center"><span style="color: #ff0000; font-family: arial, helvetica, sans-serif; font-size: large;"><b>Rx</b></span></p>
+</td>
+</tr>
+<tr style="height: 59px;">
+<td valign="middle" height="40" style="width: 49.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>0</b></span></p>
+</td>
+<td valign="middle" height="40" style="width: 48.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>0</b> </span></p>
+</td>
+</tr>
+<tr style="height: 59px;">
+<td valign="middle" height="40" style="width: 49.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>0</b></span></p>
+</td>
+<td valign="middle" height="40" style="width: 48.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>0</b> </span></p>
+</td>
+</tr>
+<tr style="height: 59px;">
+<td valign="MIDDLE" rowspan="4" height="32" style="width: 132.462px; height: 236px;">
+<p align="center"><span style="color: #000000; font-family: arial, helvetica, sans-serif; font-size: medium;">SPHÉRIQUE A DOIGT</span></p>
+<p align="center"><span style="color: #000000; font-family: arial, helvetica, sans-serif; font-size: medium;">OU</span></p>
+<p align="center"><span style="color: #000000; font-family: arial, helvetica, sans-serif; font-size: medium;">ROTULE A DOIGT </span></p>
+</td>
+<td valign="middle" height="32" bgcolor="#FFFF99" style="width: 49.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>T</b> </span></p>
+</td>
+<td valign="middle" height="32" bgcolor="#FFFF99" style="width: 48.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>R</b> </span></p>
+</td>
+<td valign="MIDDLE" rowspan="4" height="32" style="width: 88.925px; height: 236px;">
+<div align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>2</b></span></div>
+</td>
+<td rowspan="4" valign="middle" height="108" style="width: 120.062px; height: 236px;">
+<div align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: medium;">Centre<br /><span style="font-size: small;">(ici O)</span><br />+<br />Axe "bloqué" en rotation<br /><span style="font-size: small;"> (ici Ox)</span></span></div>
+</td>
+<td valign="MIDDLE" rowspan="4" height="32" style="width: 80.05px; height: 236px;"><img src="{{context_path}}/content/resources/lia_doig.gif" alt="" width="100" height="100" /></td>
+<td valign="MIDDLE" rowspan="4" height="32" style="width: 122.088px; height: 236px;"><img src="{{context_path}}/content/resources/img19.png" width="122" height="81" alt="sphd2" /></td>
+<td rowspan="4" valign="middle" height="108" style="width: 122.088px; height: 236px;"><img src="{{context_path}}/content/resources/img20.png" width="122" height="61" alt="sphd3" /></td>
+</tr>
+<tr style="height: 59px;">
+<td valign="middle" height="26" style="width: 49.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>0</b></span></p>
+</td>
+<td valign="middle" height="26" style="width: 48.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>0</b> </span></p>
+</td>
+</tr>
+<tr style="height: 59px;">
+<td valign="middle" height="33" style="width: 49.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>0</b></span></p>
+</td>
+<td valign="middle" height="33" style="width: 48.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b><span style="color: #ff0000;">Ry</span></b> </span></p>
+</td>
+</tr>
+<tr style="height: 59px;">
+<td valign="middle" height="17" style="width: 49.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>0</b></span></p>
+</td>
+<td valign="middle" height="17" style="width: 48.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b><span style="color: #ff0000;">Rz</span></b> </span></p>
+</td>
+</tr>
+<tr style="height: 59px;">
+<td valign="MIDDLE" rowspan="4" height="40" style="width: 132.462px; height: 236px;">
+<p align="center"><span style="color: #000000; font-family: arial, helvetica, sans-serif; font-size: medium;">APPUI PLAN </span></p>
+</td>
+<td valign="middle" height="40" bgcolor="#FFFF99" style="width: 49.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>T</b> </span></p>
+</td>
+<td valign="middle" height="40" bgcolor="#FFFF99" style="width: 48.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>R</b> </span></p>
+</td>
+<td valign="MIDDLE" rowspan="4" height="40" style="width: 88.925px; height: 236px;">
+<div align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>3</b></span></div>
+</td>
+<td rowspan="4" valign="middle" height="160" style="width: 120.062px; height: 236px;">
+<div align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: medium;">Centre<br /><span style="font-size: small;">(ici D)</span><br />+<br />Normale (perpendiculaire) au plan de contact<br /><span style="font-size: small;">(ici Dz)</span></span></div>
+</td>
+<td valign="MIDDLE" rowspan="4" height="40" style="width: 80.05px; height: 236px;"><img src="{{context_path}}/content/resources/lia_appl.gif" alt="" width="115" height="90" /></td>
+<td valign="MIDDLE" rowspan="4" height="40" style="width: 122.088px; height: 236px;"><img src="{{context_path}}/content/resources/img21.png" width="122" height="94" alt="app2" /></td>
+<td rowspan="4" valign="middle" height="160" style="width: 122.088px; height: 236px;"><img src="{{context_path}}/content/resources/appuiplanplan.gif" width="80" height="40" alt="app1" /></td>
+</tr>
+<tr style="height: 59px;">
+<td valign="middle" height="40" style="width: 49.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif;"><span style="color: #ff0000; font-size: large;"><b>Tx</b></span><span style="font-size: large;"> </span></span></p>
+</td>
+<td valign="middle" height="40" style="width: 48.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>0</b></span></p>
+</td>
+</tr>
+<tr style="height: 59px;">
+<td valign="middle" height="40" style="width: 49.425px; height: 59px;">
+<p align="center"><span style="color: #ff0000; font-family: arial, helvetica, sans-serif; font-size: large;"><b>Ty</b></span></p>
+</td>
+<td valign="middle" height="40" style="width: 48.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>0</b></span></p>
+</td>
+</tr>
+<tr style="height: 59px;">
+<td valign="middle" height="40" style="width: 49.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>0</b></span></p>
+</td>
+<td valign="middle" height="40" style="width: 48.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b><span style="color: #ff0000;">Rz</span></b></span></p>
+</td>
+</tr>
+<tr style="height: 59px;">
+<td valign="MIDDLE" rowspan="4" height="23" style="width: 132.462px; height: 236px;">
+<p align="center"><span style="color: #000000; font-family: arial, helvetica, sans-serif; font-size: medium;">ROTULE</span></p>
+<p align="center"><span style="color: #000000; font-family: arial, helvetica, sans-serif; font-size: medium;">OU</span></p>
+<p align="center"><span style="color: #000000; font-family: arial, helvetica, sans-serif; font-size: medium;">SPHÉRIQUE </span></p>
+</td>
+<td valign="middle" height="23" bgcolor="#FFFF99" style="width: 49.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>T</b> </span></p>
+</td>
+<td valign="middle" height="23" bgcolor="#FFFF99" style="width: 48.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>R</b> </span></p>
+</td>
+<td valign="MIDDLE" rowspan="4" height="23" style="width: 88.925px; height: 236px;">
+<div align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>3</b></span></div>
+</td>
+<td rowspan="4" valign="middle" height="128" style="width: 120.062px; height: 236px;">
+<div align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: medium;">Centre<br /><span style="font-size: small;">(ici O)</span></span></div>
+</td>
+<td valign="MIDDLE" rowspan="4" height="23" style="width: 80.05px; height: 236px;"><img src="{{context_path}}/content/resources/lia_rotu.gif" alt="" width="115" height="90" /></td>
+<td valign="MIDDLE" rowspan="4" height="23" style="width: 122.088px; height: 236px;"><img src="{{context_path}}/content/resources/img22.png" width="122" height="81" alt="sph2" /></td>
+<td rowspan="4" valign="middle" height="128" style="width: 122.088px; height: 236px;"><img src="{{context_path}}/content/resources/img23.png" width="122" height="61" alt="sph3" /></td>
+</tr>
+<tr style="height: 59px;">
+<td valign="middle" height="35" style="width: 49.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>0</b> </span></p>
+</td>
+<td valign="middle" height="35" style="width: 48.425px; height: 59px;">
+<p align="center"><span style="color: #ff0000; font-family: arial, helvetica, sans-serif; font-size: large;"><b>Rx</b></span></p>
+</td>
+</tr>
+<tr style="height: 59px;">
+<td valign="middle" height="35" style="width: 49.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>0</b> </span></p>
+</td>
+<td valign="middle" height="35" style="width: 48.425px; height: 59px;">
+<p align="center"><span style="color: #ff0000; font-family: arial, helvetica, sans-serif; font-size: large;"><b>Ry</b></span></p>
+</td>
+</tr>
+<tr style="height: 59px;">
+<td valign="middle" height="35" style="width: 49.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>0</b> </span></p>
+</td>
+<td valign="middle" height="35" style="width: 48.425px; height: 59px;">
+<p align="center"><span style="color: #ff0000; font-family: arial, helvetica, sans-serif; font-size: large;"><b>Rz</b></span></p>
+</td>
+</tr>
+<tr style="height: 59px;">
+<td valign="MIDDLE" rowspan="4" height="24" style="width: 132.462px; height: 236px;">
+<p align="center"><span style="color: #000000; font-family: arial, helvetica, sans-serif; font-size: medium;">LINÉAIRE ANNULAIRE</span></p>
+<p align="center"><span style="color: #000000; font-family: arial, helvetica, sans-serif; font-size: medium;">OU</span></p>
+<p align="center"><span style="color: #000000; font-family: arial, helvetica, sans-serif; font-size: medium;">SPHÈRE-CYLINDRE </span></p>
+</td>
+<td valign="middle" height="24" bgcolor="#FFFF99" style="width: 49.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>T</b> </span></p>
+</td>
+<td valign="middle" height="24" bgcolor="#FFFF99" style="width: 48.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>R</b> </span></p>
+</td>
+<td valign="MIDDLE" rowspan="4" height="24" style="width: 88.925px; height: 236px;">
+<div align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>4</b></span></div>
+</td>
+<td rowspan="4" valign="middle" height="93" style="width: 120.062px; height: 236px;">
+<div align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: medium;">Centre<br /><span style="font-size: small;">(ici B)</span><br />+ <br />Axe de translation<br /><span style="font-size: small;">(ici Bx)</span></span></div>
+</td>
+<td valign="MIDDLE" rowspan="4" height="24" style="width: 80.05px; height: 236px;"><img src="{{context_path}}/content/resources/lia_annu.gif" alt="" width="115" height="90" /></td>
+<td valign="MIDDLE" rowspan="4" height="24" style="width: 122.088px; height: 236px;"><img src="{{context_path}}/content/resources/img24.png" width="122" height="81" alt="linan2" /></td>
+<td rowspan="4" valign="middle" height="93" style="width: 122.088px; height: 236px;"><img src="{{context_path}}/content/resources/img25.png" width="122" height="61" alt="linan3" /></td>
+</tr>
+<tr style="height: 59px;">
+<td valign="middle" height="26" style="width: 49.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b><span style="color: #ff0000;"> Tx</span></b> </span></p>
+</td>
+<td valign="middle" height="26" style="width: 48.425px; height: 59px;">
+<p align="center"><span style="color: #ff0000; font-family: arial, helvetica, sans-serif; font-size: large;"><b>Rx</b></span></p>
+</td>
+</tr>
+<tr style="height: 59px;">
+<td valign="middle" height="20" style="width: 49.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>0</b> </span></p>
+</td>
+<td valign="middle" height="20" style="width: 48.425px; height: 59px;">
+<p align="center"><span style="color: #ff0000; font-family: arial, helvetica, sans-serif; font-size: large;"><b>Ry</b></span></p>
+</td>
+</tr>
+<tr style="height: 59px;">
+<td valign="middle" height="23" style="width: 49.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>0</b> </span></p>
+</td>
+<td valign="middle" height="23" style="width: 48.425px; height: 59px;">
+<p align="center"><span style="color: #ff0000; font-family: arial, helvetica, sans-serif; font-size: large;"><b>Rz</b></span></p>
+</td>
+</tr>
+<tr style="height: 59px;">
+<td valign="MIDDLE" rowspan="4" height="50" style="width: 132.462px; height: 236px;">
+<p align="center"><span style="color: #000000; font-family: arial, helvetica, sans-serif; font-size: medium;">LINÉAIRE RECTILIGNE </span></p>
+</td>
+<td valign="middle" height="36" bgcolor="#FFFF99" style="width: 49.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>T</b> </span></p>
+</td>
+<td valign="middle" height="36" bgcolor="#FFFF99" style="width: 48.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>R</b> </span></p>
+</td>
+<td valign="MIDDLE" rowspan="4" height="50" style="width: 88.925px; height: 236px;">
+<div align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>4</b></span></div>
+</td>
+<td rowspan="4" valign="middle" height="181" style="width: 120.062px; height: 236px;">
+<div align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: medium;">Centre<br /><span style="font-size: small;">(ici B)</span><br />+ <br />Direction de la droite de contact<br /><span style="font-size: small;">(ici Cx)</span><br />+<br />La normale au plan <span style="font-size: small;">(ici Cz)</span></span></div>
+</td>
+<td valign="MIDDLE" rowspan="4" height="50" style="width: 80.05px; height: 236px;"><img src="{{context_path}}/content/resources/lia_rect.gif" alt="" width="115" height="90" /></td>
+<td valign="MIDDLE" rowspan="4" height="50" style="width: 122.088px; height: 236px;"><img src="{{context_path}}/content/resources/img26.png" width="122" height="81" alt="linrec2" /></td>
+<td rowspan="4" valign="middle" height="181" style="width: 122.088px; height: 236px;"><img src="{{context_path}}/content/resources/img27.png" width="122" height="61" alt="linrec3" /></td>
+</tr>
+<tr style="height: 59px;">
+<td valign="middle" height="45" style="width: 49.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif;"><span style="color: #ff0000; font-size: large;"><b>Tx</b></span><span style="font-size: large;"> </span></span></p>
+</td>
+<td valign="middle" height="45" style="width: 48.425px; height: 59px;">
+<p align="center"><span style="color: #ff0000; font-family: arial, helvetica, sans-serif; font-size: large;"><b>Rx</b></span></p>
+</td>
+</tr>
+<tr style="height: 59px;">
+<td valign="middle" height="50" style="width: 49.425px; height: 59px;">
+<p align="center"><span style="color: #ff0000; font-family: arial, helvetica, sans-serif; font-size: large;"><b>Ty</b></span></p>
+</td>
+<td valign="middle" height="50" style="width: 48.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>0</b></span></p>
+</td>
+</tr>
+<tr style="height: 59px;">
+<td valign="middle" height="50" style="width: 49.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>0</b></span></p>
+</td>
+<td valign="middle" height="50" style="width: 48.425px; height: 59px;">
+<p align="center"><span style="color: #ff0000; font-family: arial, helvetica, sans-serif; font-size: large;"><b>Rz</b></span></p>
+</td>
+</tr>
+<tr style="height: 59px;">
+<td valign="MIDDLE" rowspan="4" height="33" style="width: 132.462px; height: 236px;">
+<p align="center"><span style="color: #000000; font-family: arial, helvetica, sans-serif; font-size: medium;">PONCTUELLE</span></p>
+<p align="center"><span style="color: #000000; font-family: arial, helvetica, sans-serif; font-size: medium;">OU</span></p>
+<p align="center"><span style="color: #000000; font-family: arial, helvetica, sans-serif; font-size: medium;">SPHERE-PLAN </span></p>
+</td>
+<td valign="middle" height="33" bgcolor="#FFFF99" style="width: 49.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>T</b> </span></p>
+</td>
+<td valign="middle" height="33" bgcolor="#FFFF99" style="width: 48.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>R</b> </span></p>
+</td>
+<td valign="MIDDLE" rowspan="4" height="33" style="width: 88.925px; height: 236px;">
+<div align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>5</b></span></div>
+</td>
+<td rowspan="4" valign="middle" height="111" style="width: 120.062px; height: 236px;">
+<div align="center">
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: medium;">Centre<br /><span style="font-size: small;">(ici O)</span></span><br /><span style="font-family: arial, helvetica, sans-serif;">+<br /><span style="font-size: medium;">La normale au plan</span><br /><span style="font-size: small;">(ici Oz)</span></span></p>
+</div>
+</td>
+<td valign="MIDDLE" rowspan="4" height="33" style="width: 80.05px; height: 236px;">
+<p align="center"><img src="{{context_path}}/content/resources/lia_ponc.gif" alt="" width="115" height="90" /></p>
+</td>
+<td valign="MIDDLE" rowspan="4" height="33" style="width: 122.088px; height: 236px;">
+<p align="center"><img src="{{context_path}}/content/resources/img33.1.png" width="122" height="81" alt="ponc2" /></p>
+</td>
+<td rowspan="4" valign="middle" height="111" style="width: 122.088px; height: 236px;">
+<div align="center"><img src="{{context_path}}/content/resources/img32.1.png" width="122" height="61" alt="ponc3" /></div>
+</td>
+</tr>
+<tr style="height: 59px;">
+<td valign="middle" height="26" style="width: 49.425px; height: 59px;">
+<p align="center"><span style="color: #ff0000; font-family: arial, helvetica, sans-serif; font-size: large;"><b>Tx</b></span></p>
+</td>
+<td valign="middle" height="26" style="width: 48.425px; height: 59px;">
+<p align="center"><span style="color: #ff0000; font-family: arial, helvetica, sans-serif; font-size: large;"><b>Rx</b></span></p>
+</td>
+</tr>
+<tr style="height: 59px;">
+<td valign="middle" height="29" style="width: 49.425px; height: 59px;">
+<p align="center"><span style="color: #ff0000; font-family: arial, helvetica, sans-serif; font-size: large;"><b>Ty</b></span></p>
+</td>
+<td valign="middle" height="29" style="width: 48.425px; height: 59px;">
+<p align="center"><span style="color: #ff0000; font-family: arial, helvetica, sans-serif; font-size: large;"><b>Ry</b></span></p>
+</td>
+</tr>
+<tr style="height: 59px;">
+<td valign="middle" height="23" style="width: 49.425px; height: 59px;">
+<p align="center"><span style="font-family: arial, helvetica, sans-serif; font-size: large;"><b>0</b></span></p>
+</td>
+<td valign="middle" height="23" style="width: 48.425px; height: 59px;">
+<p align="center"><span style="color: #ff0000; font-family: arial, helvetica, sans-serif; font-size: large;"><b>Rz</b></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p align="center"><span style="font-family: arial, helvetica, sans-serif;"><a href="#haut"></a></span></p>
+</form>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<form>\n<div align=\"center\"><span style=\"color: #ff0000; font-family: arial, helvetica, sans-serif; font-size: xx-large;\"> </span>\n<p></p>\n</div>\n<table border=\"\" bordercolor=\"#000000\" style=\"height: 2681px;\">\n<tbody>\n<tr style=\"height: 85px;\">\n<td valign=\"MIDDLE\" height=\"57\" bgcolor=\"#FFFF33\" style=\"width: 132.462px; height: 85px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\">Nom de la liaison </span></p>\n</td>\n<td colspan=\"2\" valign=\"MIDDLE\" height=\"57\" bgcolor=\"#FFFF33\" style=\"width: 103.05px; height: 85px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\">Mouvements</span></p>\n</td>\n<td valign=\"MIDDLE\" height=\"57\" bgcolor=\"#FFFF33\" style=\"width: 88.925px; height: 85px;\">\n<div align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\">Degrés de liberté</span></div>\n</td>\n<td valign=\"MIDDLE\" height=\"57\" bgcolor=\"#FFFF33\" style=\"width: 120.062px; height: 85px;\">\n<div align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\">Orientée<br />par</span></div>\n</td>\n<td valign=\"MIDDLE\" height=\"57\" bgcolor=\"#FFFF33\" style=\"width: 80.05px; height: 85px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\">Animation</span></p>\n</td>\n<td valign=\"MIDDLE\" height=\"57\" bgcolor=\"#FFFF33\" style=\"width: 122.088px; height: 85px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\">Représentation spatiale</span></p>\n</td>\n<td valign=\"MIDDLE\" height=\"57\" bgcolor=\"#FFFF33\" style=\"width: 122.088px; height: 85px;\">\n<div align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\">Représentation plane</span></div>\n</td>\n</tr>\n<tr style=\"height: 59px;\">\n<td valign=\"MIDDLE\" rowspan=\"4\" height=\"15\" style=\"width: 132.462px; height: 236px;\">\n<p align=\"center\"><span style=\"color: #000000; font-family: arial, helvetica, sans-serif; font-size: medium;\">ENCASTREMENT</span></p>\n<p align=\"center\"><span style=\"color: #000000; font-family: arial, helvetica, sans-serif; font-size: medium;\">OU</span></p>\n<p align=\"center\"><span style=\"color: #000000; font-family: arial, helvetica, sans-serif; font-size: medium;\">FIXE</span></p>\n</td>\n<td valign=\"MIDDLE\" height=\"15\" bgcolor=\"#FFFF99\" style=\"width: 49.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>T</b></span></p>\n</td>\n<td valign=\"MIDDLE\" height=\"15\" bgcolor=\"#FFFF99\" style=\"width: 48.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>R</b></span></p>\n</td>\n<td valign=\"MIDDLE\" rowspan=\"4\" height=\"15\" style=\"width: 88.925px; height: 236px;\">\n<div align=\"center\">\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>0</b></span></p>\n<p><span style=\"color: #ff0000; font-family: arial, helvetica, sans-serif; font-size: medium;\">(Aucun mouvement)</span></p>\n</div>\n</td>\n<td rowspan=\"4\" valign=\"MIDDLE\" height=\"81\" style=\"width: 120.062px; height: 236px;\">\n<div align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: medium;\">Centre<br /><span style=\"font-size: small;\">(ici B)</span></span></div>\n</td>\n<td valign=\"MIDDLE\" rowspan=\"4\" height=\"15\" style=\"width: 80.05px; height: 236px;\"><img src=\"{{context_path}}/content/resources/img32.png\" width=\"115\" height=\"90\" alt=\"znca1\" /></td>\n<td valign=\"MIDDLE\" rowspan=\"4\" height=\"15\" style=\"width: 122.088px; height: 236px;\"><img src=\"{{context_path}}/content/resources/img33.png\" width=\"100\" height=\"100\" alt=\"encas2\" /></td>\n<td rowspan=\"4\" valign=\"MIDDLE\" height=\"81\" style=\"width: 122.088px; height: 236px;\">\n<div align=\"center\"><img src=\"{{context_path}}/content/resources/img33.png\" width=\"200\" height=\"100\" alt=\"enca3\" /></div>\n</td>\n</tr>\n<tr style=\"height: 59px;\">\n<td valign=\"MIDDLE\" height=\"22\" style=\"width: 49.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>0</b> </span></p>\n</td>\n<td valign=\"MIDDLE\" height=\"22\" style=\"width: 48.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>0</b> </span></p>\n</td>\n</tr>\n<tr style=\"height: 59px;\">\n<td valign=\"MIDDLE\" height=\"22\" style=\"width: 49.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>0</b> </span></p>\n</td>\n<td valign=\"MIDDLE\" height=\"22\" style=\"width: 48.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>0</b> </span></p>\n</td>\n</tr>\n<tr style=\"height: 59px;\">\n<td valign=\"MIDDLE\" height=\"22\" style=\"width: 49.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>0</b> </span></p>\n</td>\n<td valign=\"MIDDLE\" height=\"22\" style=\"width: 48.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>0</b> </span></p>\n</td>\n</tr>\n<tr style=\"height: 59px;\">\n<td valign=\"MIDDLE\" rowspan=\"4\" height=\"34\" style=\"width: 132.462px; height: 236px;\">\n<p align=\"center\"><span style=\"color: #000000; font-family: arial, helvetica, sans-serif; font-size: medium;\">PIVOT </span></p>\n</td>\n<td valign=\"MIDDLE\" height=\"34\" bgcolor=\"#FFFF99\" style=\"width: 49.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>T</b></span></p>\n</td>\n<td valign=\"MIDDLE\" height=\"34\" bgcolor=\"#FFFF99\" style=\"width: 48.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>R</b></span></p>\n</td>\n<td valign=\"MIDDLE\" rowspan=\"4\" height=\"34\" style=\"width: 88.925px; height: 236px;\">\n<div align=\"center\">\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>1</b></span></p>\n</div>\n</td>\n<td rowspan=\"4\" valign=\"MIDDLE\" height=\"136\" style=\"width: 120.062px; height: 236px;\">\n<div align=\"center\">\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: medium;\">Centre<br /><span style=\"font-size: small;\">(ici A)</span><br />+<br />Axe de rotation<br /><span style=\"font-size: small;\">(ici Ax)</span></span></p>\n</div>\n</td>\n<td valign=\"MIDDLE\" rowspan=\"4\" height=\"34\" style=\"width: 80.05px; height: 236px;\"><img src=\"{{context_path}}/content/resources/LIA_PIVO.GIF\" alt=\"\" width=\"115\" height=\"90\" /></td>\n<td valign=\"MIDDLE\" rowspan=\"4\" height=\"34\" style=\"width: 122.088px; height: 236px;\"><img src=\"{{context_path}}/content/resources/img9.1.png\" width=\"122\" height=\"94\" alt=\"piv2\" /></td>\n<td rowspan=\"4\" valign=\"MIDDLE\" height=\"136\" style=\"width: 122.088px; height: 236px;\"><img src=\"{{context_path}}/content/resources/img10.png\" width=\"122\" height=\"61\" alt=\"piv3\" /></td>\n</tr>\n<tr style=\"height: 59px;\">\n<td valign=\"MIDDLE\" height=\"34\" style=\"width: 49.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>0</b> </span></p>\n</td>\n<td valign=\"MIDDLE\" height=\"34\" style=\"width: 48.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b><span style=\"color: #ff0000;\">Rx</span></b> </span></p>\n</td>\n</tr>\n<tr style=\"height: 59px;\">\n<td valign=\"MIDDLE\" height=\"34\" style=\"width: 49.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>0</b> </span></p>\n</td>\n<td valign=\"MIDDLE\" height=\"34\" style=\"width: 48.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>0</b> </span></p>\n</td>\n</tr>\n<tr style=\"height: 59px;\">\n<td valign=\"MIDDLE\" height=\"34\" style=\"width: 49.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>0</b> </span></p>\n</td>\n<td valign=\"MIDDLE\" height=\"34\" style=\"width: 48.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>0</b> </span></p>\n</td>\n</tr>\n<tr style=\"height: 59px;\">\n<td valign=\"MIDDLE\" rowspan=\"4\" height=\"41\" style=\"width: 132.462px; height: 236px;\">\n<p align=\"center\"><span style=\"color: #000000; font-family: arial, helvetica, sans-serif; font-size: medium;\">GLISSIÈRE </span></p>\n</td>\n<td valign=\"middle\" height=\"41\" bgcolor=\"#FFFF99\" style=\"width: 49.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>T</b></span></p>\n</td>\n<td valign=\"middle\" height=\"41\" bgcolor=\"#FFFF99\" style=\"width: 48.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>R</b></span></p>\n</td>\n<td valign=\"MIDDLE\" rowspan=\"4\" height=\"41\" style=\"width: 88.925px; height: 236px;\">\n<div align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>1</b></span></div>\n</td>\n<td rowspan=\"4\" valign=\"middle\" height=\"164\" style=\"width: 120.062px; height: 236px;\">\n<div align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: medium;\">Centre<br /><span style=\"font-size: small;\">(ici A)</span><br />+ <br />Axe de translation<br /><span style=\"font-size: small;\"> (ici Ax)</span></span></div>\n</td>\n<td valign=\"MIDDLE\" rowspan=\"4\" height=\"41\" style=\"width: 80.05px; height: 236px;\"><img src=\"{{context_path}}/content/resources/lia_glis.gif\" alt=\"\" width=\"115\" height=\"90\" /></td>\n<td valign=\"MIDDLE\" rowspan=\"4\" height=\"41\" style=\"width: 122.088px; height: 236px;\"><img src=\"{{context_path}}/content/resources/img12.png\" width=\"120\" height=\"100\" alt=\"glis2\" /></td>\n<td rowspan=\"4\" valign=\"middle\" height=\"164\" style=\"width: 122.088px; height: 236px;\"><img src=\"{{context_path}}/content/resources/img13.png\" width=\"122\" height=\"61\" alt=\"glis3\" /></td>\n</tr>\n<tr style=\"height: 59px;\">\n<td valign=\"middle\" height=\"41\" style=\"width: 49.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b><span style=\"color: #ff0000;\">Tx</span></b> </span></p>\n</td>\n<td valign=\"middle\" height=\"41\" style=\"width: 48.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>0</b> </span></p>\n</td>\n</tr>\n<tr style=\"height: 59px;\">\n<td valign=\"middle\" height=\"41\" style=\"width: 49.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>0</b> </span></p>\n</td>\n<td valign=\"middle\" height=\"41\" style=\"width: 48.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>0</b> </span></p>\n</td>\n</tr>\n<tr style=\"height: 59px;\">\n<td valign=\"middle\" height=\"41\" style=\"width: 49.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>0</b> </span></p>\n</td>\n<td valign=\"middle\" height=\"41\" style=\"width: 48.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>0</b> </span></p>\n</td>\n</tr>\n<tr style=\"height: 59px;\">\n<td valign=\"MIDDLE\" rowspan=\"4\" height=\"20\" style=\"width: 132.462px; height: 236px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"color: #000000; font-size: medium;\">HÉLICOÏDALE</span><span style=\"color: #000000; font-size: medium;\"> </span></span></p>\n</td>\n<td valign=\"middle\" height=\"20\" bgcolor=\"#FFFF99\" style=\"width: 49.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>T</b> </span></p>\n</td>\n<td valign=\"middle\" height=\"20\" bgcolor=\"#FFFF99\" style=\"width: 48.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>R</b> </span></p>\n</td>\n<td valign=\"MIDDLE\" rowspan=\"4\" height=\"20\" style=\"width: 88.925px; height: 236px;\">\n<div align=\"center\">\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>1</b></span></p>\n<p><span style=\"color: #ff0000; font-family: arial, helvetica, sans-serif; font-size: medium;\">(Translation et Rotation conjuguées)</span></p>\n</div>\n</td>\n<td rowspan=\"4\" valign=\"middle\" height=\"121\" style=\"width: 120.062px; height: 236px;\">\n<div align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: medium;\">Centre<br /><span style=\"font-size: small;\">(ici B)</span><br />+ <br />Axe de translation et rotation conjuguées<br /><span style=\"font-size: small;\">(ici By)</span></span></div>\n</td>\n<td valign=\"MIDDLE\" rowspan=\"4\" height=\"20\" style=\"width: 80.05px; height: 236px;\"><img src=\"{{context_path}}/content/resources/lia_heli.gif\" alt=\"\" width=\"115\" height=\"90\" /></td>\n<td valign=\"MIDDLE\" rowspan=\"4\" height=\"20\" style=\"width: 122.088px; height: 236px;\"><img src=\"{{context_path}}/content/resources/img15.png\" width=\"122\" height=\"94\" alt=\"hel2\" /></td>\n<td rowspan=\"4\" valign=\"middle\" height=\"121\" style=\"width: 122.088px; height: 236px;\"><img src=\"{{context_path}}/content/resources/img16.png\" width=\"122\" height=\"61\" alt=\"hel3\" /></td>\n</tr>\n<tr style=\"height: 59px;\">\n<td valign=\"middle\" height=\"34\" style=\"width: 49.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>0</b></span></p>\n</td>\n<td valign=\"middle\" height=\"34\" style=\"width: 48.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>0</b></span></p>\n</td>\n</tr>\n<tr style=\"height: 59px;\">\n<td valign=\"middle\" height=\"34\" style=\"width: 49.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"color: #ff0000; font-size: large;\"><b>Ty</b></span><span style=\"font-size: large;\"> </span></span></p>\n</td>\n<td valign=\"middle\" height=\"34\" style=\"width: 48.425px; height: 59px;\">\n<p align=\"center\"><span style=\"color: #ff0000; font-family: arial, helvetica, sans-serif; font-size: large;\"><b>Ry</b></span></p>\n</td>\n</tr>\n<tr style=\"height: 59px;\">\n<td valign=\"middle\" height=\"33\" style=\"width: 49.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>0</b> </span></p>\n</td>\n<td valign=\"middle\" height=\"33\" style=\"width: 48.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>0</b></span></p>\n</td>\n</tr>\n<tr style=\"height: 59px;\">\n<td valign=\"MIDDLE\" rowspan=\"4\" height=\"40\" style=\"width: 132.462px; height: 236px;\">\n<p align=\"center\"><span style=\"color: #000000; font-family: arial, helvetica, sans-serif; font-size: medium;\">PIVOT GLISSANT </span></p>\n</td>\n<td valign=\"middle\" height=\"40\" bgcolor=\"#FFFF99\" style=\"width: 49.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>T</b> </span></p>\n</td>\n<td valign=\"middle\" height=\"40\" bgcolor=\"#FFFF99\" style=\"width: 48.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>R</b> </span></p>\n</td>\n<td valign=\"MIDDLE\" rowspan=\"4\" height=\"40\" style=\"width: 88.925px; height: 236px;\">\n<div align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>2</b></span></div>\n</td>\n<td rowspan=\"4\" valign=\"middle\" height=\"160\" style=\"width: 120.062px; height: 236px;\">\n<div align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: medium;\"><br />Centre<br /><span style=\"font-size: small;\">(ici C)</span><br />+ <br />Axe de translation et de rotation <br /><span style=\"font-size: small;\"> (ici Cx)</span></span></div>\n</td>\n<td valign=\"MIDDLE\" rowspan=\"4\" height=\"40\" style=\"width: 80.05px; height: 236px;\"><img src=\"{{context_path}}/content/resources/lia_pivg.gif\" alt=\"\" width=\"115\" height=\"90\" /></td>\n<td valign=\"MIDDLE\" rowspan=\"4\" height=\"40\" style=\"width: 122.088px; height: 236px;\"><img src=\"{{context_path}}/content/resources/img17.png\" width=\"122\" height=\"94\" alt=\"piv1\" /></td>\n<td rowspan=\"4\" valign=\"middle\" height=\"160\" style=\"width: 122.088px; height: 236px;\"><img src=\"{{context_path}}/content/resources/img18.png\" width=\"122\" height=\"61\" alt=\"piv3\" /></td>\n</tr>\n<tr style=\"height: 59px;\">\n<td valign=\"middle\" height=\"40\" style=\"width: 49.425px; height: 59px;\">\n<p align=\"center\"><span style=\"color: #ff0000; font-family: arial, helvetica, sans-serif; font-size: large;\"><b>Tx</b></span></p>\n</td>\n<td valign=\"middle\" height=\"40\" style=\"width: 48.425px; height: 59px;\">\n<p align=\"center\"><span style=\"color: #ff0000; font-family: arial, helvetica, sans-serif; font-size: large;\"><b>Rx</b></span></p>\n</td>\n</tr>\n<tr style=\"height: 59px;\">\n<td valign=\"middle\" height=\"40\" style=\"width: 49.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>0</b></span></p>\n</td>\n<td valign=\"middle\" height=\"40\" style=\"width: 48.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>0</b> </span></p>\n</td>\n</tr>\n<tr style=\"height: 59px;\">\n<td valign=\"middle\" height=\"40\" style=\"width: 49.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>0</b></span></p>\n</td>\n<td valign=\"middle\" height=\"40\" style=\"width: 48.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>0</b> </span></p>\n</td>\n</tr>\n<tr style=\"height: 59px;\">\n<td valign=\"MIDDLE\" rowspan=\"4\" height=\"32\" style=\"width: 132.462px; height: 236px;\">\n<p align=\"center\"><span style=\"color: #000000; font-family: arial, helvetica, sans-serif; font-size: medium;\">SPHÉRIQUE A DOIGT</span></p>\n<p align=\"center\"><span style=\"color: #000000; font-family: arial, helvetica, sans-serif; font-size: medium;\">OU</span></p>\n<p align=\"center\"><span style=\"color: #000000; font-family: arial, helvetica, sans-serif; font-size: medium;\">ROTULE A DOIGT </span></p>\n</td>\n<td valign=\"middle\" height=\"32\" bgcolor=\"#FFFF99\" style=\"width: 49.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>T</b> </span></p>\n</td>\n<td valign=\"middle\" height=\"32\" bgcolor=\"#FFFF99\" style=\"width: 48.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>R</b> </span></p>\n</td>\n<td valign=\"MIDDLE\" rowspan=\"4\" height=\"32\" style=\"width: 88.925px; height: 236px;\">\n<div align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>2</b></span></div>\n</td>\n<td rowspan=\"4\" valign=\"middle\" height=\"108\" style=\"width: 120.062px; height: 236px;\">\n<div align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: medium;\">Centre<br /><span style=\"font-size: small;\">(ici O)</span><br />+<br />Axe \"bloqué\" en rotation<br /><span style=\"font-size: small;\"> (ici Ox)</span></span></div>\n</td>\n<td valign=\"MIDDLE\" rowspan=\"4\" height=\"32\" style=\"width: 80.05px; height: 236px;\"><img src=\"{{context_path}}/content/resources/lia_doig.gif\" alt=\"\" width=\"100\" height=\"100\" /></td>\n<td valign=\"MIDDLE\" rowspan=\"4\" height=\"32\" style=\"width: 122.088px; height: 236px;\"><img src=\"{{context_path}}/content/resources/img19.png\" width=\"122\" height=\"81\" alt=\"sphd2\" /></td>\n<td rowspan=\"4\" valign=\"middle\" height=\"108\" style=\"width: 122.088px; height: 236px;\"><img src=\"{{context_path}}/content/resources/img20.png\" width=\"122\" height=\"61\" alt=\"sphd3\" /></td>\n</tr>\n<tr style=\"height: 59px;\">\n<td valign=\"middle\" height=\"26\" style=\"width: 49.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>0</b></span></p>\n</td>\n<td valign=\"middle\" height=\"26\" style=\"width: 48.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>0</b> </span></p>\n</td>\n</tr>\n<tr style=\"height: 59px;\">\n<td valign=\"middle\" height=\"33\" style=\"width: 49.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>0</b></span></p>\n</td>\n<td valign=\"middle\" height=\"33\" style=\"width: 48.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b><span style=\"color: #ff0000;\">Ry</span></b> </span></p>\n</td>\n</tr>\n<tr style=\"height: 59px;\">\n<td valign=\"middle\" height=\"17\" style=\"width: 49.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>0</b></span></p>\n</td>\n<td valign=\"middle\" height=\"17\" style=\"width: 48.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b><span style=\"color: #ff0000;\">Rz</span></b> </span></p>\n</td>\n</tr>\n<tr style=\"height: 59px;\">\n<td valign=\"MIDDLE\" rowspan=\"4\" height=\"40\" style=\"width: 132.462px; height: 236px;\">\n<p align=\"center\"><span style=\"color: #000000; font-family: arial, helvetica, sans-serif; font-size: medium;\">APPUI PLAN </span></p>\n</td>\n<td valign=\"middle\" height=\"40\" bgcolor=\"#FFFF99\" style=\"width: 49.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>T</b> </span></p>\n</td>\n<td valign=\"middle\" height=\"40\" bgcolor=\"#FFFF99\" style=\"width: 48.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>R</b> </span></p>\n</td>\n<td valign=\"MIDDLE\" rowspan=\"4\" height=\"40\" style=\"width: 88.925px; height: 236px;\">\n<div align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>3</b></span></div>\n</td>\n<td rowspan=\"4\" valign=\"middle\" height=\"160\" style=\"width: 120.062px; height: 236px;\">\n<div align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: medium;\">Centre<br /><span style=\"font-size: small;\">(ici D)</span><br />+<br />Normale (perpendiculaire) au plan de contact<br /><span style=\"font-size: small;\">(ici Dz)</span></span></div>\n</td>\n<td valign=\"MIDDLE\" rowspan=\"4\" height=\"40\" style=\"width: 80.05px; height: 236px;\"><img src=\"{{context_path}}/content/resources/lia_appl.gif\" alt=\"\" width=\"115\" height=\"90\" /></td>\n<td valign=\"MIDDLE\" rowspan=\"4\" height=\"40\" style=\"width: 122.088px; height: 236px;\"><img src=\"{{context_path}}/content/resources/img21.png\" width=\"122\" height=\"94\" alt=\"app2\" /></td>\n<td rowspan=\"4\" valign=\"middle\" height=\"160\" style=\"width: 122.088px; height: 236px;\"><img src=\"{{context_path}}/content/resources/appuiplanplan.gif\" width=\"80\" height=\"40\" alt=\"app1\" /></td>\n</tr>\n<tr style=\"height: 59px;\">\n<td valign=\"middle\" height=\"40\" style=\"width: 49.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"color: #ff0000; font-size: large;\"><b>Tx</b></span><span style=\"font-size: large;\"> </span></span></p>\n</td>\n<td valign=\"middle\" height=\"40\" style=\"width: 48.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>0</b></span></p>\n</td>\n</tr>\n<tr style=\"height: 59px;\">\n<td valign=\"middle\" height=\"40\" style=\"width: 49.425px; height: 59px;\">\n<p align=\"center\"><span style=\"color: #ff0000; font-family: arial, helvetica, sans-serif; font-size: large;\"><b>Ty</b></span></p>\n</td>\n<td valign=\"middle\" height=\"40\" style=\"width: 48.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>0</b></span></p>\n</td>\n</tr>\n<tr style=\"height: 59px;\">\n<td valign=\"middle\" height=\"40\" style=\"width: 49.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>0</b></span></p>\n</td>\n<td valign=\"middle\" height=\"40\" style=\"width: 48.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b><span style=\"color: #ff0000;\">Rz</span></b></span></p>\n</td>\n</tr>\n<tr style=\"height: 59px;\">\n<td valign=\"MIDDLE\" rowspan=\"4\" height=\"23\" style=\"width: 132.462px; height: 236px;\">\n<p align=\"center\"><span style=\"color: #000000; font-family: arial, helvetica, sans-serif; font-size: medium;\">ROTULE</span></p>\n<p align=\"center\"><span style=\"color: #000000; font-family: arial, helvetica, sans-serif; font-size: medium;\">OU</span></p>\n<p align=\"center\"><span style=\"color: #000000; font-family: arial, helvetica, sans-serif; font-size: medium;\">SPHÉRIQUE </span></p>\n</td>\n<td valign=\"middle\" height=\"23\" bgcolor=\"#FFFF99\" style=\"width: 49.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>T</b> </span></p>\n</td>\n<td valign=\"middle\" height=\"23\" bgcolor=\"#FFFF99\" style=\"width: 48.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>R</b> </span></p>\n</td>\n<td valign=\"MIDDLE\" rowspan=\"4\" height=\"23\" style=\"width: 88.925px; height: 236px;\">\n<div align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>3</b></span></div>\n</td>\n<td rowspan=\"4\" valign=\"middle\" height=\"128\" style=\"width: 120.062px; height: 236px;\">\n<div align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: medium;\">Centre<br /><span style=\"font-size: small;\">(ici O)</span></span></div>\n</td>\n<td valign=\"MIDDLE\" rowspan=\"4\" height=\"23\" style=\"width: 80.05px; height: 236px;\"><img src=\"{{context_path}}/content/resources/lia_rotu.gif\" alt=\"\" width=\"115\" height=\"90\" /></td>\n<td valign=\"MIDDLE\" rowspan=\"4\" height=\"23\" style=\"width: 122.088px; height: 236px;\"><img src=\"{{context_path}}/content/resources/img22.png\" width=\"122\" height=\"81\" alt=\"sph2\" /></td>\n<td rowspan=\"4\" valign=\"middle\" height=\"128\" style=\"width: 122.088px; height: 236px;\"><img src=\"{{context_path}}/content/resources/img23.png\" width=\"122\" height=\"61\" alt=\"sph3\" /></td>\n</tr>\n<tr style=\"height: 59px;\">\n<td valign=\"middle\" height=\"35\" style=\"width: 49.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>0</b> </span></p>\n</td>\n<td valign=\"middle\" height=\"35\" style=\"width: 48.425px; height: 59px;\">\n<p align=\"center\"><span style=\"color: #ff0000; font-family: arial, helvetica, sans-serif; font-size: large;\"><b>Rx</b></span></p>\n</td>\n</tr>\n<tr style=\"height: 59px;\">\n<td valign=\"middle\" height=\"35\" style=\"width: 49.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>0</b> </span></p>\n</td>\n<td valign=\"middle\" height=\"35\" style=\"width: 48.425px; height: 59px;\">\n<p align=\"center\"><span style=\"color: #ff0000; font-family: arial, helvetica, sans-serif; font-size: large;\"><b>Ry</b></span></p>\n</td>\n</tr>\n<tr style=\"height: 59px;\">\n<td valign=\"middle\" height=\"35\" style=\"width: 49.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>0</b> </span></p>\n</td>\n<td valign=\"middle\" height=\"35\" style=\"width: 48.425px; height: 59px;\">\n<p align=\"center\"><span style=\"color: #ff0000; font-family: arial, helvetica, sans-serif; font-size: large;\"><b>Rz</b></span></p>\n</td>\n</tr>\n<tr style=\"height: 59px;\">\n<td valign=\"MIDDLE\" rowspan=\"4\" height=\"24\" style=\"width: 132.462px; height: 236px;\">\n<p align=\"center\"><span style=\"color: #000000; font-family: arial, helvetica, sans-serif; font-size: medium;\">LINÉAIRE ANNULAIRE</span></p>\n<p align=\"center\"><span style=\"color: #000000; font-family: arial, helvetica, sans-serif; font-size: medium;\">OU</span></p>\n<p align=\"center\"><span style=\"color: #000000; font-family: arial, helvetica, sans-serif; font-size: medium;\">SPHÈRE-CYLINDRE </span></p>\n</td>\n<td valign=\"middle\" height=\"24\" bgcolor=\"#FFFF99\" style=\"width: 49.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>T</b> </span></p>\n</td>\n<td valign=\"middle\" height=\"24\" bgcolor=\"#FFFF99\" style=\"width: 48.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>R</b> </span></p>\n</td>\n<td valign=\"MIDDLE\" rowspan=\"4\" height=\"24\" style=\"width: 88.925px; height: 236px;\">\n<div align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>4</b></span></div>\n</td>\n<td rowspan=\"4\" valign=\"middle\" height=\"93\" style=\"width: 120.062px; height: 236px;\">\n<div align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: medium;\">Centre<br /><span style=\"font-size: small;\">(ici B)</span><br />+ <br />Axe de translation<br /><span style=\"font-size: small;\">(ici Bx)</span></span></div>\n</td>\n<td valign=\"MIDDLE\" rowspan=\"4\" height=\"24\" style=\"width: 80.05px; height: 236px;\"><img src=\"{{context_path}}/content/resources/lia_annu.gif\" alt=\"\" width=\"115\" height=\"90\" /></td>\n<td valign=\"MIDDLE\" rowspan=\"4\" height=\"24\" style=\"width: 122.088px; height: 236px;\"><img src=\"{{context_path}}/content/resources/img24.png\" width=\"122\" height=\"81\" alt=\"linan2\" /></td>\n<td rowspan=\"4\" valign=\"middle\" height=\"93\" style=\"width: 122.088px; height: 236px;\"><img src=\"{{context_path}}/content/resources/img25.png\" width=\"122\" height=\"61\" alt=\"linan3\" /></td>\n</tr>\n<tr style=\"height: 59px;\">\n<td valign=\"middle\" height=\"26\" style=\"width: 49.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b><span style=\"color: #ff0000;\"> Tx</span></b> </span></p>\n</td>\n<td valign=\"middle\" height=\"26\" style=\"width: 48.425px; height: 59px;\">\n<p align=\"center\"><span style=\"color: #ff0000; font-family: arial, helvetica, sans-serif; font-size: large;\"><b>Rx</b></span></p>\n</td>\n</tr>\n<tr style=\"height: 59px;\">\n<td valign=\"middle\" height=\"20\" style=\"width: 49.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>0</b> </span></p>\n</td>\n<td valign=\"middle\" height=\"20\" style=\"width: 48.425px; height: 59px;\">\n<p align=\"center\"><span style=\"color: #ff0000; font-family: arial, helvetica, sans-serif; font-size: large;\"><b>Ry</b></span></p>\n</td>\n</tr>\n<tr style=\"height: 59px;\">\n<td valign=\"middle\" height=\"23\" style=\"width: 49.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>0</b> </span></p>\n</td>\n<td valign=\"middle\" height=\"23\" style=\"width: 48.425px; height: 59px;\">\n<p align=\"center\"><span style=\"color: #ff0000; font-family: arial, helvetica, sans-serif; font-size: large;\"><b>Rz</b></span></p>\n</td>\n</tr>\n<tr style=\"height: 59px;\">\n<td valign=\"MIDDLE\" rowspan=\"4\" height=\"50\" style=\"width: 132.462px; height: 236px;\">\n<p align=\"center\"><span style=\"color: #000000; font-family: arial, helvetica, sans-serif; font-size: medium;\">LINÉAIRE RECTILIGNE </span></p>\n</td>\n<td valign=\"middle\" height=\"36\" bgcolor=\"#FFFF99\" style=\"width: 49.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>T</b> </span></p>\n</td>\n<td valign=\"middle\" height=\"36\" bgcolor=\"#FFFF99\" style=\"width: 48.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>R</b> </span></p>\n</td>\n<td valign=\"MIDDLE\" rowspan=\"4\" height=\"50\" style=\"width: 88.925px; height: 236px;\">\n<div align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>4</b></span></div>\n</td>\n<td rowspan=\"4\" valign=\"middle\" height=\"181\" style=\"width: 120.062px; height: 236px;\">\n<div align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: medium;\">Centre<br /><span style=\"font-size: small;\">(ici B)</span><br />+ <br />Direction de la droite de contact<br /><span style=\"font-size: small;\">(ici Cx)</span><br />+<br />La normale au plan <span style=\"font-size: small;\">(ici Cz)</span></span></div>\n</td>\n<td valign=\"MIDDLE\" rowspan=\"4\" height=\"50\" style=\"width: 80.05px; height: 236px;\"><img src=\"{{context_path}}/content/resources/lia_rect.gif\" alt=\"\" width=\"115\" height=\"90\" /></td>\n<td valign=\"MIDDLE\" rowspan=\"4\" height=\"50\" style=\"width: 122.088px; height: 236px;\"><img src=\"{{context_path}}/content/resources/img26.png\" width=\"122\" height=\"81\" alt=\"linrec2\" /></td>\n<td rowspan=\"4\" valign=\"middle\" height=\"181\" style=\"width: 122.088px; height: 236px;\"><img src=\"{{context_path}}/content/resources/img27.png\" width=\"122\" height=\"61\" alt=\"linrec3\" /></td>\n</tr>\n<tr style=\"height: 59px;\">\n<td valign=\"middle\" height=\"45\" style=\"width: 49.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"color: #ff0000; font-size: large;\"><b>Tx</b></span><span style=\"font-size: large;\"> </span></span></p>\n</td>\n<td valign=\"middle\" height=\"45\" style=\"width: 48.425px; height: 59px;\">\n<p align=\"center\"><span style=\"color: #ff0000; font-family: arial, helvetica, sans-serif; font-size: large;\"><b>Rx</b></span></p>\n</td>\n</tr>\n<tr style=\"height: 59px;\">\n<td valign=\"middle\" height=\"50\" style=\"width: 49.425px; height: 59px;\">\n<p align=\"center\"><span style=\"color: #ff0000; font-family: arial, helvetica, sans-serif; font-size: large;\"><b>Ty</b></span></p>\n</td>\n<td valign=\"middle\" height=\"50\" style=\"width: 48.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>0</b></span></p>\n</td>\n</tr>\n<tr style=\"height: 59px;\">\n<td valign=\"middle\" height=\"50\" style=\"width: 49.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>0</b></span></p>\n</td>\n<td valign=\"middle\" height=\"50\" style=\"width: 48.425px; height: 59px;\">\n<p align=\"center\"><span style=\"color: #ff0000; font-family: arial, helvetica, sans-serif; font-size: large;\"><b>Rz</b></span></p>\n</td>\n</tr>\n<tr style=\"height: 59px;\">\n<td valign=\"MIDDLE\" rowspan=\"4\" height=\"33\" style=\"width: 132.462px; height: 236px;\">\n<p align=\"center\"><span style=\"color: #000000; font-family: arial, helvetica, sans-serif; font-size: medium;\">PONCTUELLE</span></p>\n<p align=\"center\"><span style=\"color: #000000; font-family: arial, helvetica, sans-serif; font-size: medium;\">OU</span></p>\n<p align=\"center\"><span style=\"color: #000000; font-family: arial, helvetica, sans-serif; font-size: medium;\">SPHERE-PLAN </span></p>\n</td>\n<td valign=\"middle\" height=\"33\" bgcolor=\"#FFFF99\" style=\"width: 49.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>T</b> </span></p>\n</td>\n<td valign=\"middle\" height=\"33\" bgcolor=\"#FFFF99\" style=\"width: 48.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>R</b> </span></p>\n</td>\n<td valign=\"MIDDLE\" rowspan=\"4\" height=\"33\" style=\"width: 88.925px; height: 236px;\">\n<div align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>5</b></span></div>\n</td>\n<td rowspan=\"4\" valign=\"middle\" height=\"111\" style=\"width: 120.062px; height: 236px;\">\n<div align=\"center\">\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: medium;\">Centre<br /><span style=\"font-size: small;\">(ici O)</span></span><br /><span style=\"font-family: arial, helvetica, sans-serif;\">+<br /><span style=\"font-size: medium;\">La normale au plan</span><br /><span style=\"font-size: small;\">(ici Oz)</span></span></p>\n</div>\n</td>\n<td valign=\"MIDDLE\" rowspan=\"4\" height=\"33\" style=\"width: 80.05px; height: 236px;\">\n<p align=\"center\"><img src=\"{{context_path}}/content/resources/lia_ponc.gif\" alt=\"\" width=\"115\" height=\"90\" /></p>\n</td>\n<td valign=\"MIDDLE\" rowspan=\"4\" height=\"33\" style=\"width: 122.088px; height: 236px;\">\n<p align=\"center\"><img src=\"{{context_path}}/content/resources/img33.1.png\" width=\"122\" height=\"81\" alt=\"ponc2\" /></p>\n</td>\n<td rowspan=\"4\" valign=\"middle\" height=\"111\" style=\"width: 122.088px; height: 236px;\">\n<div align=\"center\"><img src=\"{{context_path}}/content/resources/img32.1.png\" width=\"122\" height=\"61\" alt=\"ponc3\" /></div>\n</td>\n</tr>\n<tr style=\"height: 59px;\">\n<td valign=\"middle\" height=\"26\" style=\"width: 49.425px; height: 59px;\">\n<p align=\"center\"><span style=\"color: #ff0000; font-family: arial, helvetica, sans-serif; font-size: large;\"><b>Tx</b></span></p>\n</td>\n<td valign=\"middle\" height=\"26\" style=\"width: 48.425px; height: 59px;\">\n<p align=\"center\"><span style=\"color: #ff0000; font-family: arial, helvetica, sans-serif; font-size: large;\"><b>Rx</b></span></p>\n</td>\n</tr>\n<tr style=\"height: 59px;\">\n<td valign=\"middle\" height=\"29\" style=\"width: 49.425px; height: 59px;\">\n<p align=\"center\"><span style=\"color: #ff0000; font-family: arial, helvetica, sans-serif; font-size: large;\"><b>Ty</b></span></p>\n</td>\n<td valign=\"middle\" height=\"29\" style=\"width: 48.425px; height: 59px;\">\n<p align=\"center\"><span style=\"color: #ff0000; font-family: arial, helvetica, sans-serif; font-size: large;\"><b>Ry</b></span></p>\n</td>\n</tr>\n<tr style=\"height: 59px;\">\n<td valign=\"middle\" height=\"23\" style=\"width: 49.425px; height: 59px;\">\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><b>0</b></span></p>\n</td>\n<td valign=\"middle\" height=\"23\" style=\"width: 48.425px; height: 59px;\">\n<p align=\"center\"><span style=\"color: #ff0000; font-family: arial, helvetica, sans-serif; font-size: large;\"><b>Rz</b></span></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p align=\"center\"><span style=\"font-family: arial, helvetica, sans-serif;\"><a href=\"#haut\"></a></span></p>\n</form>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
