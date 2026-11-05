@@ -94,10 +94,13 @@
     padding: 20px
 }
 
+<<<<<<< HEAD
 .highlighted-code {
     margin: 2em 1em;
 }
 
+=======
+>>>>>>> 271a1f0863c6b7b114135348d8ab3e6993306727
 .exe-dl {
     margin-bottom: 2em;
     margin-left: 1.5em
@@ -757,6 +760,7 @@ html:not(.mode-teacher) .js .teacher-only {
     font-size: 0.95em;
 }
 
+<<<<<<< HEAD
 /* Footer with neither license nor "Page footer" content: themes give #siteFooter
    a background and border, so an empty one shows as a stray bar. Hidden here so
    every theme (including custom ones) gets it, and so a theme that wants to keep
@@ -765,6 +769,8 @@ html:not(.mode-teacher) .js .teacher-only {
     display: none;
 }
 
+=======
+>>>>>>> 271a1f0863c6b7b114135348d8ab3e6993306727
 /* Skip navigation link */
 #skipNav {
     position: fixed;

@@ -95,6 +95,7 @@ window.$exeExport = {
     
     /**
      * Teacher Mode
+<<<<<<< HEAD
      *
      * Teacher-only content (.teacher-only) is HIDDEN by default in exports (see the rule in
      * base.css). It is revealed by the `mode-teacher` class on <html>, which the in-page
@@ -171,30 +172,53 @@ window.$exeExport = {
             // Reveal is already applied by bootstrap() (flicker-free); here we only carry
             // the params across navigation and manage the optional self-serve toggle.
             this.propagateNavParams();
+=======
+     */
+    teacherMode : {
+        STORAGE_KEY : 'exeTeacherMode',
+        init : function(){
+>>>>>>> 271a1f0863c6b7b114135348d8ab3e6993306727
             if (typeof(localStorage)!='object') return;
             if ($(".box.teacher-only").length==0 && $(".idevice_node.teacher-only").length==0) return;
             if (document.getElementById("teacher-mode-toggler")) return;
             if ($("body").hasClass("exe-epub")) return;
+<<<<<<< HEAD
             // The self-serve toggle is opt-in: shown only when the teacher URL parameter
             // made it available (?exe-teacher=1, alias ?teacher-mode=1, or the legacy
             // ?exe-teacher-toggler=1) — see bootstrap(). _showToggler captures that decision.
             if (this._showToggler !== true) return;
+=======
+>>>>>>> 271a1f0863c6b7b114135348d8ab3e6993306727
             document.body.classList.add('exe-teacher-mode-toggler');
             var btn = '<div class="form-check form-switch" id="teacher-mode-toggler-wrapper"><input class="form-check-input" type="checkbox" role="switch" id="teacher-mode-toggler"><label class="form-check-label" for="teacher-mode-toggler">'+$exe_i18n.teacher_mode+'</label></div>';
             if ($("body").hasClass("exe-single-page")) $(".package-header").before(btn);
             else $(".page-header").prepend(btn);
             this.toggler = $("#teacher-mode-toggler");
+<<<<<<< HEAD
             if (document.documentElement.classList.contains('mode-teacher')) {
                 this.toggler.prop("checked", true);
+=======
+            var enabled = this.isEnabled();
+            if (enabled) {
+                this.toggler.prop("checked", true);
+                document.documentElement.classList.add('mode-teacher');
+>>>>>>> 271a1f0863c6b7b114135348d8ab3e6993306727
             }
             this.toggler.on("change", function(){
                 var root = document.documentElement;
                 var key = $exeExport.teacherMode.STORAGE_KEY;
                 if (this.checked) {
+<<<<<<< HEAD
                     try { localStorage.setItem(key, '1'); } catch (e) {}
                     root.classList.add('mode-teacher');
                 } else {
                     try { localStorage.removeItem(key); } catch (e) {}
+=======
+                    localStorage.setItem(key, '1');
+                    root.classList.add('mode-teacher');
+                } else {
+                    localStorage.removeItem(key);
+>>>>>>> 271a1f0863c6b7b114135348d8ab3e6993306727
                     root.classList.remove('mode-teacher');
                 }
             });
@@ -258,6 +282,7 @@ window.$exeExport = {
                             }
                             
                             // Check for SCORM data if jsonData is valid
+<<<<<<< HEAD
                             if (
                                 jsonData &&
                                 (
@@ -265,6 +290,9 @@ window.$exeExport = {
                                     Number(jsonData.isScorm) > 0
                                 )
                             ) {
+=======
+                            if (jsonData && jsonData.exportScorm && jsonData.exportScorm.saveScore) {
+>>>>>>> 271a1f0863c6b7b114135348d8ab3e6993306727
                                 isSCORM = true;
                             }
                             break;
@@ -366,6 +394,7 @@ window.$exeExport = {
             // JSON-only iDevices that store ALL content in jsonProperties (not in htmlView)
             // and need renderView to generate the complete interface.
             // 'trueorfalse' added for legacy imports that have empty htmlView.
+<<<<<<< HEAD
             const jsonOnlyIdevices = [
                 'casestudy',
                 'file-attachment',
@@ -376,6 +405,9 @@ window.$exeExport = {
                 'trueorfalse',
                 'adaptative-quiz',
             ];
+=======
+            const jsonOnlyIdevices = ['casestudy', 'form', 'image-gallery', 'magnifier', 'trueorfalse'];
+>>>>>>> 271a1f0863c6b7b114135348d8ab3e6993306727
             const ideviceType = ideviceNode.getAttribute('data-idevice-type');
             const needsJsonRender = isJsonIdevice && jsonOnlyIdevices.includes(ideviceType);
             if (needsJsonRender || ideviceNode.classList.contains('db-no-data')) {
@@ -385,7 +417,10 @@ window.$exeExport = {
                 // No renderView needed, just behaviour and init
                 exportIdevice.renderBehaviour(jsonData, accesibility);
                 exportIdevice.init(jsonData, accesibility);
+<<<<<<< HEAD
                 this.afterIdeviceRendered(ideviceNode);
+=======
+>>>>>>> 271a1f0863c6b7b114135348d8ab3e6993306727
                 ideviceNode.classList.add('loaded');
                 setTimeout(() => { ideviceNode.classList.remove('loading') }, 100);
             }
@@ -437,12 +472,16 @@ window.$exeExport = {
         exportIdevice.renderBehaviour(jsonData, accesibility);
         // Idevice export function 3: init
         exportIdevice.init(jsonData, accesibility);
+<<<<<<< HEAD
         this.afterIdeviceRendered(ideviceNode);
+=======
+>>>>>>> 271a1f0863c6b7b114135348d8ab3e6993306727
         // Loaded
         ideviceNode.classList.add('loaded');
         setTimeout(() => { ideviceNode.classList.remove('loading') }, 100);
     },
 
+<<<<<<< HEAD
     /**
      * Apply the enhancements shared by every iDevice to content an iDevice has just
      * rendered.
@@ -464,6 +503,8 @@ window.$exeExport = {
             $exeFX.init(ideviceNode);
         }
     },
+=======
+>>>>>>> 271a1f0863c6b7b114135348d8ab3e6993306727
 
     /**
      * Get idevice export object
@@ -560,10 +601,13 @@ window.$exeExport = {
 // Use local reference for cleaner code
 var $exeExport = window.$exeExport;
 
+<<<<<<< HEAD
 // Apply the Teacher Mode reveal as early as possible. This script runs in <head>, so
 // doing it now (before DOMContentLoaded and the first paint) avoids any content flicker.
 try { $exeExport.teacherMode.bootstrap(); } catch (e) { /* student mode is the safe default */ }
 
+=======
+>>>>>>> 271a1f0863c6b7b114135348d8ab3e6993306727
 $(function () {
     $exeExport.init();
 });
